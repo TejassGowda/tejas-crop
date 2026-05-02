@@ -1,0 +1,13002 @@
+[
+  {
+    "crop": "Pulses",
+    "tempRange": [
+      23,
+      33
+    ],
+    "humidityRange": [
+      36,
+      65
+    ],
+    "soil": "clay",
+    "season": "summer"
+  },
+  {
+    "crop": "Lentil",
+    "tempRange": [
+      18,
+      26
+    ],
+    "humidityRange": [
+      49,
+      67
+    ],
+    "soil": "silty",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Lentil",
+    "tempRange": [
+      12,
+      21
+    ],
+    "humidityRange": [
+      30,
+      51
+    ],
+    "soil": "sandy",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Tobacco",
+    "tempRange": [
+      14,
+      25
+    ],
+    "humidityRange": [
+      34,
+      44
+    ],
+    "soil": "loamy",
+    "season": "summer"
+  },
+  {
+    "crop": "Groundnut",
+    "tempRange": [
+      14,
+      27
+    ],
+    "humidityRange": [
+      54,
+      84
+    ],
+    "soil": "loamy",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Maize",
+    "tempRange": [
+      17,
+      23
+    ],
+    "humidityRange": [
+      46,
+      60
+    ],
+    "soil": "silty",
+    "season": "winter"
+  },
+  {
+    "crop": "Sugarcane",
+    "tempRange": [
+      23,
+      37
+    ],
+    "humidityRange": [
+      50,
+      70
+    ],
+    "soil": "silty",
+    "season": "winter"
+  },
+  {
+    "crop": "Maize",
+    "tempRange": [
+      21,
+      33
+    ],
+    "humidityRange": [
+      30,
+      58
+    ],
+    "soil": "loamy",
+    "season": "winter"
+  },
+  {
+    "crop": "Maize",
+    "tempRange": [
+      18,
+      32
+    ],
+    "humidityRange": [
+      58,
+      82
+    ],
+    "soil": "sandy",
+    "season": "winter"
+  },
+  {
+    "crop": "Pea",
+    "tempRange": [
+      25,
+      35
+    ],
+    "humidityRange": [
+      48,
+      73
+    ],
+    "soil": "silty",
+    "season": "summer"
+  },
+  {
+    "crop": "Soybean",
+    "tempRange": [
+      18,
+      27
+    ],
+    "humidityRange": [
+      34,
+      62
+    ],
+    "soil": "silty",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Jute",
+    "tempRange": [
+      11,
+      22
+    ],
+    "humidityRange": [
+      48,
+      72
+    ],
+    "soil": "loamy",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Maize",
+    "tempRange": [
+      24,
+      30
+    ],
+    "humidityRange": [
+      51,
+      79
+    ],
+    "soil": "loamy",
+    "season": "winter"
+  },
+  {
+    "crop": "Pulses",
+    "tempRange": [
+      12,
+      18
+    ],
+    "humidityRange": [
+      32,
+      58
+    ],
+    "soil": "loamy",
+    "season": "summer"
+  },
+  {
+    "crop": "Tea",
+    "tempRange": [
+      15,
+      21
+    ],
+    "humidityRange": [
+      52,
+      72
+    ],
+    "soil": "loamy",
+    "season": "winter"
+  },
+  {
+    "crop": "Lentil",
+    "tempRange": [
+      25,
+      33
+    ],
+    "humidityRange": [
+      48,
+      58
+    ],
+    "soil": "silty",
+    "season": "winter"
+  },
+  {
+    "crop": "Pulses",
+    "tempRange": [
+      18,
+      28
+    ],
+    "humidityRange": [
+      41,
+      54
+    ],
+    "soil": "loamy",
+    "season": "winter"
+  },
+  {
+    "crop": "Barley",
+    "tempRange": [
+      21,
+      36
+    ],
+    "humidityRange": [
+      55,
+      75
+    ],
+    "soil": "silty",
+    "season": "winter"
+  },
+  {
+    "crop": "Rice",
+    "tempRange": [
+      13,
+      28
+    ],
+    "humidityRange": [
+      57,
+      73
+    ],
+    "soil": "clay",
+    "season": "summer"
+  },
+  {
+    "crop": "Tea",
+    "tempRange": [
+      15,
+      22
+    ],
+    "humidityRange": [
+      59,
+      89
+    ],
+    "soil": "sandy",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Tea",
+    "tempRange": [
+      21,
+      27
+    ],
+    "humidityRange": [
+      60,
+      84
+    ],
+    "soil": "loamy",
+    "season": "winter"
+  },
+  {
+    "crop": "Jute",
+    "tempRange": [
+      14,
+      24
+    ],
+    "humidityRange": [
+      38,
+      55
+    ],
+    "soil": "silty",
+    "season": "summer"
+  },
+  {
+    "crop": "Gram",
+    "tempRange": [
+      24,
+      31
+    ],
+    "humidityRange": [
+      52,
+      75
+    ],
+    "soil": "loamy",
+    "season": "winter"
+  },
+  {
+    "crop": "Sugarcane",
+    "tempRange": [
+      15,
+      22
+    ],
+    "humidityRange": [
+      35,
+      64
+    ],
+    "soil": "silty",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Groundnut",
+    "tempRange": [
+      14,
+      25
+    ],
+    "humidityRange": [
+      48,
+      75
+    ],
+    "soil": "clay",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Wheat",
+    "tempRange": [
+      19,
+      31
+    ],
+    "humidityRange": [
+      32,
+      60
+    ],
+    "soil": "clay",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Pulses",
+    "tempRange": [
+      25,
+      40
+    ],
+    "humidityRange": [
+      52,
+      72
+    ],
+    "soil": "sandy",
+    "season": "winter"
+  },
+  {
+    "crop": "Gram",
+    "tempRange": [
+      10,
+      17
+    ],
+    "humidityRange": [
+      38,
+      54
+    ],
+    "soil": "clay",
+    "season": "winter"
+  },
+  {
+    "crop": "Pea",
+    "tempRange": [
+      20,
+      35
+    ],
+    "humidityRange": [
+      37,
+      64
+    ],
+    "soil": "silty",
+    "season": "summer"
+  },
+  {
+    "crop": "Sunflower",
+    "tempRange": [
+      25,
+      37
+    ],
+    "humidityRange": [
+      45,
+      59
+    ],
+    "soil": "silty",
+    "season": "winter"
+  },
+  {
+    "crop": "Jute",
+    "tempRange": [
+      16,
+      29
+    ],
+    "humidityRange": [
+      58,
+      70
+    ],
+    "soil": "sandy",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Soybean",
+    "tempRange": [
+      13,
+      26
+    ],
+    "humidityRange": [
+      39,
+      52
+    ],
+    "soil": "sandy",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Groundnut",
+    "tempRange": [
+      10,
+      17
+    ],
+    "humidityRange": [
+      37,
+      65
+    ],
+    "soil": "loamy",
+    "season": "summer"
+  },
+  {
+    "crop": "Lentil",
+    "tempRange": [
+      24,
+      33
+    ],
+    "humidityRange": [
+      58,
+      88
+    ],
+    "soil": "sandy",
+    "season": "winter"
+  },
+  {
+    "crop": "Millet",
+    "tempRange": [
+      13,
+      27
+    ],
+    "humidityRange": [
+      32,
+      55
+    ],
+    "soil": "sandy",
+    "season": "summer"
+  },
+  {
+    "crop": "Pea",
+    "tempRange": [
+      20,
+      28
+    ],
+    "humidityRange": [
+      36,
+      56
+    ],
+    "soil": "silty",
+    "season": "winter"
+  },
+  {
+    "crop": "Maize",
+    "tempRange": [
+      11,
+      16
+    ],
+    "humidityRange": [
+      44,
+      65
+    ],
+    "soil": "clay",
+    "season": "winter"
+  },
+  {
+    "crop": "Barley",
+    "tempRange": [
+      24,
+      32
+    ],
+    "humidityRange": [
+      53,
+      77
+    ],
+    "soil": "sandy",
+    "season": "winter"
+  },
+  {
+    "crop": "Coffee",
+    "tempRange": [
+      11,
+      25
+    ],
+    "humidityRange": [
+      31,
+      56
+    ],
+    "soil": "loamy",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Tea",
+    "tempRange": [
+      24,
+      38
+    ],
+    "humidityRange": [
+      52,
+      65
+    ],
+    "soil": "loamy",
+    "season": "summer"
+  },
+  {
+    "crop": "Maize",
+    "tempRange": [
+      19,
+      28
+    ],
+    "humidityRange": [
+      32,
+      57
+    ],
+    "soil": "sandy",
+    "season": "summer"
+  },
+  {
+    "crop": "Lentil",
+    "tempRange": [
+      23,
+      34
+    ],
+    "humidityRange": [
+      41,
+      64
+    ],
+    "soil": "sandy",
+    "season": "summer"
+  },
+  {
+    "crop": "Sunflower",
+    "tempRange": [
+      18,
+      29
+    ],
+    "humidityRange": [
+      39,
+      58
+    ],
+    "soil": "silty",
+    "season": "summer"
+  },
+  {
+    "crop": "Barley",
+    "tempRange": [
+      22,
+      30
+    ],
+    "humidityRange": [
+      40,
+      50
+    ],
+    "soil": "sandy",
+    "season": "winter"
+  },
+  {
+    "crop": "Groundnut",
+    "tempRange": [
+      10,
+      18
+    ],
+    "humidityRange": [
+      59,
+      84
+    ],
+    "soil": "silty",
+    "season": "summer"
+  },
+  {
+    "crop": "Maize",
+    "tempRange": [
+      10,
+      15
+    ],
+    "humidityRange": [
+      58,
+      74
+    ],
+    "soil": "sandy",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Sugarcane",
+    "tempRange": [
+      14,
+      24
+    ],
+    "humidityRange": [
+      42,
+      69
+    ],
+    "soil": "loamy",
+    "season": "summer"
+  },
+  {
+    "crop": "Cotton",
+    "tempRange": [
+      10,
+      15
+    ],
+    "humidityRange": [
+      33,
+      62
+    ],
+    "soil": "loamy",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Millet",
+    "tempRange": [
+      22,
+      32
+    ],
+    "humidityRange": [
+      48,
+      65
+    ],
+    "soil": "clay",
+    "season": "winter"
+  },
+  {
+    "crop": "Gram",
+    "tempRange": [
+      20,
+      29
+    ],
+    "humidityRange": [
+      43,
+      66
+    ],
+    "soil": "clay",
+    "season": "summer"
+  },
+  {
+    "crop": "Cotton",
+    "tempRange": [
+      14,
+      28
+    ],
+    "humidityRange": [
+      36,
+      49
+    ],
+    "soil": "sandy",
+    "season": "winter"
+  },
+  {
+    "crop": "Tobacco",
+    "tempRange": [
+      21,
+      35
+    ],
+    "humidityRange": [
+      38,
+      58
+    ],
+    "soil": "clay",
+    "season": "summer"
+  },
+  {
+    "crop": "Rice",
+    "tempRange": [
+      24,
+      35
+    ],
+    "humidityRange": [
+      52,
+      75
+    ],
+    "soil": "clay",
+    "season": "summer"
+  },
+  {
+    "crop": "Wheat",
+    "tempRange": [
+      10,
+      17
+    ],
+    "humidityRange": [
+      44,
+      67
+    ],
+    "soil": "silty",
+    "season": "winter"
+  },
+  {
+    "crop": "Rice",
+    "tempRange": [
+      18,
+      28
+    ],
+    "humidityRange": [
+      49,
+      75
+    ],
+    "soil": "clay",
+    "season": "summer"
+  },
+  {
+    "crop": "Tea",
+    "tempRange": [
+      12,
+      23
+    ],
+    "humidityRange": [
+      40,
+      55
+    ],
+    "soil": "loamy",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Pea",
+    "tempRange": [
+      23,
+      33
+    ],
+    "humidityRange": [
+      45,
+      67
+    ],
+    "soil": "silty",
+    "season": "winter"
+  },
+  {
+    "crop": "Lentil",
+    "tempRange": [
+      13,
+      22
+    ],
+    "humidityRange": [
+      36,
+      52
+    ],
+    "soil": "sandy",
+    "season": "winter"
+  },
+  {
+    "crop": "Sorghum",
+    "tempRange": [
+      10,
+      15
+    ],
+    "humidityRange": [
+      43,
+      67
+    ],
+    "soil": "sandy",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Soybean",
+    "tempRange": [
+      14,
+      29
+    ],
+    "humidityRange": [
+      31,
+      59
+    ],
+    "soil": "silty",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Coffee",
+    "tempRange": [
+      15,
+      21
+    ],
+    "humidityRange": [
+      39,
+      50
+    ],
+    "soil": "loamy",
+    "season": "summer"
+  },
+  {
+    "crop": "Gram",
+    "tempRange": [
+      22,
+      27
+    ],
+    "humidityRange": [
+      50,
+      74
+    ],
+    "soil": "clay",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Sunflower",
+    "tempRange": [
+      10,
+      21
+    ],
+    "humidityRange": [
+      50,
+      73
+    ],
+    "soil": "sandy",
+    "season": "winter"
+  },
+  {
+    "crop": "Soybean",
+    "tempRange": [
+      16,
+      25
+    ],
+    "humidityRange": [
+      47,
+      69
+    ],
+    "soil": "sandy",
+    "season": "summer"
+  },
+  {
+    "crop": "Coffee",
+    "tempRange": [
+      12,
+      20
+    ],
+    "humidityRange": [
+      48,
+      59
+    ],
+    "soil": "silty",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Sorghum",
+    "tempRange": [
+      23,
+      31
+    ],
+    "humidityRange": [
+      40,
+      61
+    ],
+    "soil": "silty",
+    "season": "summer"
+  },
+  {
+    "crop": "Millet",
+    "tempRange": [
+      14,
+      23
+    ],
+    "humidityRange": [
+      42,
+      71
+    ],
+    "soil": "sandy",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Wheat",
+    "tempRange": [
+      24,
+      31
+    ],
+    "humidityRange": [
+      50,
+      66
+    ],
+    "soil": "loamy",
+    "season": "winter"
+  },
+  {
+    "crop": "Rice",
+    "tempRange": [
+      25,
+      35
+    ],
+    "humidityRange": [
+      34,
+      55
+    ],
+    "soil": "loamy",
+    "season": "winter"
+  },
+  {
+    "crop": "Tobacco",
+    "tempRange": [
+      10,
+      21
+    ],
+    "humidityRange": [
+      56,
+      79
+    ],
+    "soil": "clay",
+    "season": "winter"
+  },
+  {
+    "crop": "Tea",
+    "tempRange": [
+      12,
+      23
+    ],
+    "humidityRange": [
+      60,
+      73
+    ],
+    "soil": "sandy",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Sorghum",
+    "tempRange": [
+      16,
+      22
+    ],
+    "humidityRange": [
+      46,
+      64
+    ],
+    "soil": "loamy",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Lentil",
+    "tempRange": [
+      16,
+      24
+    ],
+    "humidityRange": [
+      52,
+      70
+    ],
+    "soil": "clay",
+    "season": "winter"
+  },
+  {
+    "crop": "Lentil",
+    "tempRange": [
+      17,
+      23
+    ],
+    "humidityRange": [
+      53,
+      77
+    ],
+    "soil": "clay",
+    "season": "winter"
+  },
+  {
+    "crop": "Barley",
+    "tempRange": [
+      25,
+      40
+    ],
+    "humidityRange": [
+      31,
+      41
+    ],
+    "soil": "loamy",
+    "season": "winter"
+  },
+  {
+    "crop": "Pea",
+    "tempRange": [
+      19,
+      28
+    ],
+    "humidityRange": [
+      55,
+      70
+    ],
+    "soil": "sandy",
+    "season": "summer"
+  },
+  {
+    "crop": "Millet",
+    "tempRange": [
+      14,
+      23
+    ],
+    "humidityRange": [
+      36,
+      66
+    ],
+    "soil": "silty",
+    "season": "summer"
+  },
+  {
+    "crop": "Pea",
+    "tempRange": [
+      24,
+      36
+    ],
+    "humidityRange": [
+      39,
+      57
+    ],
+    "soil": "loamy",
+    "season": "winter"
+  },
+  {
+    "crop": "Sugarcane",
+    "tempRange": [
+      23,
+      35
+    ],
+    "humidityRange": [
+      34,
+      46
+    ],
+    "soil": "loamy",
+    "season": "summer"
+  },
+  {
+    "crop": "Pea",
+    "tempRange": [
+      10,
+      18
+    ],
+    "humidityRange": [
+      40,
+      67
+    ],
+    "soil": "loamy",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Barley",
+    "tempRange": [
+      18,
+      29
+    ],
+    "humidityRange": [
+      60,
+      76
+    ],
+    "soil": "sandy",
+    "season": "summer"
+  },
+  {
+    "crop": "Rice",
+    "tempRange": [
+      25,
+      38
+    ],
+    "humidityRange": [
+      52,
+      78
+    ],
+    "soil": "loamy",
+    "season": "summer"
+  },
+  {
+    "crop": "Coffee",
+    "tempRange": [
+      21,
+      33
+    ],
+    "humidityRange": [
+      44,
+      70
+    ],
+    "soil": "silty",
+    "season": "winter"
+  },
+  {
+    "crop": "Groundnut",
+    "tempRange": [
+      25,
+      34
+    ],
+    "humidityRange": [
+      34,
+      61
+    ],
+    "soil": "loamy",
+    "season": "winter"
+  },
+  {
+    "crop": "Sunflower",
+    "tempRange": [
+      17,
+      27
+    ],
+    "humidityRange": [
+      43,
+      69
+    ],
+    "soil": "clay",
+    "season": "winter"
+  },
+  {
+    "crop": "Pulses",
+    "tempRange": [
+      17,
+      25
+    ],
+    "humidityRange": [
+      50,
+      61
+    ],
+    "soil": "clay",
+    "season": "summer"
+  },
+  {
+    "crop": "Sorghum",
+    "tempRange": [
+      11,
+      20
+    ],
+    "humidityRange": [
+      48,
+      74
+    ],
+    "soil": "sandy",
+    "season": "winter"
+  },
+  {
+    "crop": "Jute",
+    "tempRange": [
+      16,
+      22
+    ],
+    "humidityRange": [
+      44,
+      55
+    ],
+    "soil": "silty",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Jute",
+    "tempRange": [
+      17,
+      29
+    ],
+    "humidityRange": [
+      44,
+      55
+    ],
+    "soil": "loamy",
+    "season": "summer"
+  },
+  {
+    "crop": "Barley",
+    "tempRange": [
+      23,
+      31
+    ],
+    "humidityRange": [
+      48,
+      69
+    ],
+    "soil": "silty",
+    "season": "winter"
+  },
+  {
+    "crop": "Tea",
+    "tempRange": [
+      19,
+      30
+    ],
+    "humidityRange": [
+      58,
+      69
+    ],
+    "soil": "clay",
+    "season": "winter"
+  },
+  {
+    "crop": "Millet",
+    "tempRange": [
+      17,
+      25
+    ],
+    "humidityRange": [
+      58,
+      80
+    ],
+    "soil": "loamy",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Barley",
+    "tempRange": [
+      14,
+      28
+    ],
+    "humidityRange": [
+      57,
+      82
+    ],
+    "soil": "loamy",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Maize",
+    "tempRange": [
+      25,
+      40
+    ],
+    "humidityRange": [
+      49,
+      67
+    ],
+    "soil": "silty",
+    "season": "summer"
+  },
+  {
+    "crop": "Sunflower",
+    "tempRange": [
+      25,
+      33
+    ],
+    "humidityRange": [
+      37,
+      47
+    ],
+    "soil": "clay",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Sorghum",
+    "tempRange": [
+      13,
+      19
+    ],
+    "humidityRange": [
+      41,
+      66
+    ],
+    "soil": "loamy",
+    "season": "winter"
+  },
+  {
+    "crop": "Lentil",
+    "tempRange": [
+      13,
+      28
+    ],
+    "humidityRange": [
+      39,
+      52
+    ],
+    "soil": "clay",
+    "season": "summer"
+  },
+  {
+    "crop": "Sugarcane",
+    "tempRange": [
+      11,
+      26
+    ],
+    "humidityRange": [
+      33,
+      57
+    ],
+    "soil": "sandy",
+    "season": "summer"
+  },
+  {
+    "crop": "Wheat",
+    "tempRange": [
+      19,
+      28
+    ],
+    "humidityRange": [
+      32,
+      60
+    ],
+    "soil": "clay",
+    "season": "summer"
+  },
+  {
+    "crop": "Tobacco",
+    "tempRange": [
+      24,
+      34
+    ],
+    "humidityRange": [
+      34,
+      50
+    ],
+    "soil": "sandy",
+    "season": "winter"
+  },
+  {
+    "crop": "Wheat",
+    "tempRange": [
+      23,
+      36
+    ],
+    "humidityRange": [
+      38,
+      68
+    ],
+    "soil": "sandy",
+    "season": "winter"
+  },
+  {
+    "crop": "Lentil",
+    "tempRange": [
+      10,
+      22
+    ],
+    "humidityRange": [
+      32,
+      53
+    ],
+    "soil": "clay",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Cotton",
+    "tempRange": [
+      12,
+      25
+    ],
+    "humidityRange": [
+      49,
+      62
+    ],
+    "soil": "silty",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Pea",
+    "tempRange": [
+      24,
+      39
+    ],
+    "humidityRange": [
+      56,
+      68
+    ],
+    "soil": "sandy",
+    "season": "winter"
+  },
+  {
+    "crop": "Cotton",
+    "tempRange": [
+      15,
+      29
+    ],
+    "humidityRange": [
+      30,
+      43
+    ],
+    "soil": "silty",
+    "season": "summer"
+  },
+  {
+    "crop": "Rice",
+    "tempRange": [
+      21,
+      36
+    ],
+    "humidityRange": [
+      51,
+      61
+    ],
+    "soil": "loamy",
+    "season": "winter"
+  },
+  {
+    "crop": "Sorghum",
+    "tempRange": [
+      14,
+      26
+    ],
+    "humidityRange": [
+      44,
+      58
+    ],
+    "soil": "sandy",
+    "season": "summer"
+  },
+  {
+    "crop": "Barley",
+    "tempRange": [
+      13,
+      18
+    ],
+    "humidityRange": [
+      38,
+      52
+    ],
+    "soil": "loamy",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Maize",
+    "tempRange": [
+      15,
+      28
+    ],
+    "humidityRange": [
+      60,
+      74
+    ],
+    "soil": "silty",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Groundnut",
+    "tempRange": [
+      15,
+      23
+    ],
+    "humidityRange": [
+      43,
+      55
+    ],
+    "soil": "clay",
+    "season": "summer"
+  },
+  {
+    "crop": "Millet",
+    "tempRange": [
+      18,
+      33
+    ],
+    "humidityRange": [
+      35,
+      59
+    ],
+    "soil": "clay",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Groundnut",
+    "tempRange": [
+      20,
+      26
+    ],
+    "humidityRange": [
+      60,
+      77
+    ],
+    "soil": "silty",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Barley",
+    "tempRange": [
+      19,
+      30
+    ],
+    "humidityRange": [
+      51,
+      75
+    ],
+    "soil": "sandy",
+    "season": "winter"
+  },
+  {
+    "crop": "Coffee",
+    "tempRange": [
+      15,
+      23
+    ],
+    "humidityRange": [
+      43,
+      57
+    ],
+    "soil": "clay",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Groundnut",
+    "tempRange": [
+      11,
+      16
+    ],
+    "humidityRange": [
+      36,
+      54
+    ],
+    "soil": "sandy",
+    "season": "summer"
+  },
+  {
+    "crop": "Tea",
+    "tempRange": [
+      21,
+      30
+    ],
+    "humidityRange": [
+      44,
+      61
+    ],
+    "soil": "clay",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Gram",
+    "tempRange": [
+      24,
+      39
+    ],
+    "humidityRange": [
+      58,
+      78
+    ],
+    "soil": "loamy",
+    "season": "winter"
+  },
+  {
+    "crop": "Lentil",
+    "tempRange": [
+      19,
+      33
+    ],
+    "humidityRange": [
+      40,
+      50
+    ],
+    "soil": "sandy",
+    "season": "summer"
+  },
+  {
+    "crop": "Sunflower",
+    "tempRange": [
+      10,
+      17
+    ],
+    "humidityRange": [
+      46,
+      65
+    ],
+    "soil": "clay",
+    "season": "summer"
+  },
+  {
+    "crop": "Jute",
+    "tempRange": [
+      23,
+      37
+    ],
+    "humidityRange": [
+      39,
+      60
+    ],
+    "soil": "loamy",
+    "season": "summer"
+  },
+  {
+    "crop": "Groundnut",
+    "tempRange": [
+      12,
+      18
+    ],
+    "humidityRange": [
+      52,
+      68
+    ],
+    "soil": "clay",
+    "season": "winter"
+  },
+  {
+    "crop": "Millet",
+    "tempRange": [
+      25,
+      38
+    ],
+    "humidityRange": [
+      53,
+      78
+    ],
+    "soil": "clay",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Sunflower",
+    "tempRange": [
+      18,
+      23
+    ],
+    "humidityRange": [
+      30,
+      53
+    ],
+    "soil": "silty",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Wheat",
+    "tempRange": [
+      10,
+      17
+    ],
+    "humidityRange": [
+      44,
+      69
+    ],
+    "soil": "loamy",
+    "season": "summer"
+  },
+  {
+    "crop": "Gram",
+    "tempRange": [
+      15,
+      21
+    ],
+    "humidityRange": [
+      43,
+      66
+    ],
+    "soil": "sandy",
+    "season": "winter"
+  },
+  {
+    "crop": "Wheat",
+    "tempRange": [
+      24,
+      38
+    ],
+    "humidityRange": [
+      44,
+      62
+    ],
+    "soil": "clay",
+    "season": "winter"
+  },
+  {
+    "crop": "Sunflower",
+    "tempRange": [
+      15,
+      24
+    ],
+    "humidityRange": [
+      48,
+      69
+    ],
+    "soil": "sandy",
+    "season": "summer"
+  },
+  {
+    "crop": "Tobacco",
+    "tempRange": [
+      25,
+      40
+    ],
+    "humidityRange": [
+      34,
+      45
+    ],
+    "soil": "sandy",
+    "season": "summer"
+  },
+  {
+    "crop": "Jute",
+    "tempRange": [
+      11,
+      26
+    ],
+    "humidityRange": [
+      40,
+      68
+    ],
+    "soil": "silty",
+    "season": "summer"
+  },
+  {
+    "crop": "Millet",
+    "tempRange": [
+      11,
+      19
+    ],
+    "humidityRange": [
+      59,
+      75
+    ],
+    "soil": "silty",
+    "season": "summer"
+  },
+  {
+    "crop": "Tobacco",
+    "tempRange": [
+      23,
+      38
+    ],
+    "humidityRange": [
+      45,
+      55
+    ],
+    "soil": "loamy",
+    "season": "winter"
+  },
+  {
+    "crop": "Tobacco",
+    "tempRange": [
+      18,
+      26
+    ],
+    "humidityRange": [
+      44,
+      70
+    ],
+    "soil": "silty",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Soybean",
+    "tempRange": [
+      14,
+      29
+    ],
+    "humidityRange": [
+      35,
+      58
+    ],
+    "soil": "silty",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Pulses",
+    "tempRange": [
+      24,
+      38
+    ],
+    "humidityRange": [
+      54,
+      68
+    ],
+    "soil": "silty",
+    "season": "summer"
+  },
+  {
+    "crop": "Sorghum",
+    "tempRange": [
+      13,
+      20
+    ],
+    "humidityRange": [
+      41,
+      68
+    ],
+    "soil": "sandy",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Sunflower",
+    "tempRange": [
+      15,
+      27
+    ],
+    "humidityRange": [
+      43,
+      67
+    ],
+    "soil": "clay",
+    "season": "summer"
+  },
+  {
+    "crop": "Wheat",
+    "tempRange": [
+      22,
+      29
+    ],
+    "humidityRange": [
+      40,
+      66
+    ],
+    "soil": "clay",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Maize",
+    "tempRange": [
+      25,
+      39
+    ],
+    "humidityRange": [
+      52,
+      76
+    ],
+    "soil": "sandy",
+    "season": "summer"
+  },
+  {
+    "crop": "Rice",
+    "tempRange": [
+      15,
+      27
+    ],
+    "humidityRange": [
+      32,
+      61
+    ],
+    "soil": "sandy",
+    "season": "summer"
+  },
+  {
+    "crop": "Sugarcane",
+    "tempRange": [
+      14,
+      29
+    ],
+    "humidityRange": [
+      49,
+      72
+    ],
+    "soil": "loamy",
+    "season": "summer"
+  },
+  {
+    "crop": "Tobacco",
+    "tempRange": [
+      14,
+      23
+    ],
+    "humidityRange": [
+      30,
+      50
+    ],
+    "soil": "clay",
+    "season": "summer"
+  },
+  {
+    "crop": "Pulses",
+    "tempRange": [
+      21,
+      36
+    ],
+    "humidityRange": [
+      40,
+      70
+    ],
+    "soil": "loamy",
+    "season": "summer"
+  },
+  {
+    "crop": "Barley",
+    "tempRange": [
+      24,
+      33
+    ],
+    "humidityRange": [
+      49,
+      66
+    ],
+    "soil": "sandy",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Pea",
+    "tempRange": [
+      15,
+      28
+    ],
+    "humidityRange": [
+      44,
+      72
+    ],
+    "soil": "sandy",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Groundnut",
+    "tempRange": [
+      21,
+      28
+    ],
+    "humidityRange": [
+      32,
+      45
+    ],
+    "soil": "sandy",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Soybean",
+    "tempRange": [
+      15,
+      29
+    ],
+    "humidityRange": [
+      31,
+      48
+    ],
+    "soil": "silty",
+    "season": "winter"
+  },
+  {
+    "crop": "Rice",
+    "tempRange": [
+      11,
+      20
+    ],
+    "humidityRange": [
+      40,
+      52
+    ],
+    "soil": "sandy",
+    "season": "summer"
+  },
+  {
+    "crop": "Sugarcane",
+    "tempRange": [
+      24,
+      32
+    ],
+    "humidityRange": [
+      55,
+      70
+    ],
+    "soil": "clay",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Soybean",
+    "tempRange": [
+      13,
+      20
+    ],
+    "humidityRange": [
+      51,
+      71
+    ],
+    "soil": "clay",
+    "season": "winter"
+  },
+  {
+    "crop": "Sorghum",
+    "tempRange": [
+      24,
+      34
+    ],
+    "humidityRange": [
+      51,
+      79
+    ],
+    "soil": "loamy",
+    "season": "summer"
+  },
+  {
+    "crop": "Pulses",
+    "tempRange": [
+      17,
+      28
+    ],
+    "humidityRange": [
+      34,
+      51
+    ],
+    "soil": "silty",
+    "season": "winter"
+  },
+  {
+    "crop": "Pulses",
+    "tempRange": [
+      10,
+      16
+    ],
+    "humidityRange": [
+      31,
+      41
+    ],
+    "soil": "sandy",
+    "season": "winter"
+  },
+  {
+    "crop": "Tobacco",
+    "tempRange": [
+      15,
+      23
+    ],
+    "humidityRange": [
+      43,
+      58
+    ],
+    "soil": "sandy",
+    "season": "summer"
+  },
+  {
+    "crop": "Coffee",
+    "tempRange": [
+      11,
+      17
+    ],
+    "humidityRange": [
+      39,
+      60
+    ],
+    "soil": "sandy",
+    "season": "winter"
+  },
+  {
+    "crop": "Coffee",
+    "tempRange": [
+      10,
+      16
+    ],
+    "humidityRange": [
+      46,
+      58
+    ],
+    "soil": "loamy",
+    "season": "summer"
+  },
+  {
+    "crop": "Groundnut",
+    "tempRange": [
+      21,
+      34
+    ],
+    "humidityRange": [
+      38,
+      56
+    ],
+    "soil": "sandy",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Coffee",
+    "tempRange": [
+      21,
+      29
+    ],
+    "humidityRange": [
+      30,
+      58
+    ],
+    "soil": "clay",
+    "season": "summer"
+  },
+  {
+    "crop": "Wheat",
+    "tempRange": [
+      16,
+      28
+    ],
+    "humidityRange": [
+      52,
+      77
+    ],
+    "soil": "loamy",
+    "season": "summer"
+  },
+  {
+    "crop": "Lentil",
+    "tempRange": [
+      14,
+      22
+    ],
+    "humidityRange": [
+      38,
+      64
+    ],
+    "soil": "clay",
+    "season": "winter"
+  },
+  {
+    "crop": "Millet",
+    "tempRange": [
+      10,
+      18
+    ],
+    "humidityRange": [
+      50,
+      77
+    ],
+    "soil": "clay",
+    "season": "summer"
+  },
+  {
+    "crop": "Tea",
+    "tempRange": [
+      14,
+      28
+    ],
+    "humidityRange": [
+      47,
+      65
+    ],
+    "soil": "sandy",
+    "season": "winter"
+  },
+  {
+    "crop": "Maize",
+    "tempRange": [
+      14,
+      29
+    ],
+    "humidityRange": [
+      33,
+      57
+    ],
+    "soil": "sandy",
+    "season": "summer"
+  },
+  {
+    "crop": "Gram",
+    "tempRange": [
+      20,
+      26
+    ],
+    "humidityRange": [
+      50,
+      74
+    ],
+    "soil": "loamy",
+    "season": "summer"
+  },
+  {
+    "crop": "Millet",
+    "tempRange": [
+      25,
+      40
+    ],
+    "humidityRange": [
+      51,
+      71
+    ],
+    "soil": "silty",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Groundnut",
+    "tempRange": [
+      24,
+      33
+    ],
+    "humidityRange": [
+      36,
+      61
+    ],
+    "soil": "silty",
+    "season": "summer"
+  },
+  {
+    "crop": "Pulses",
+    "tempRange": [
+      12,
+      25
+    ],
+    "humidityRange": [
+      56,
+      66
+    ],
+    "soil": "clay",
+    "season": "summer"
+  },
+  {
+    "crop": "Maize",
+    "tempRange": [
+      10,
+      20
+    ],
+    "humidityRange": [
+      39,
+      52
+    ],
+    "soil": "clay",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Sunflower",
+    "tempRange": [
+      15,
+      28
+    ],
+    "humidityRange": [
+      51,
+      76
+    ],
+    "soil": "silty",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Tea",
+    "tempRange": [
+      24,
+      34
+    ],
+    "humidityRange": [
+      59,
+      82
+    ],
+    "soil": "sandy",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Sunflower",
+    "tempRange": [
+      20,
+      27
+    ],
+    "humidityRange": [
+      36,
+      66
+    ],
+    "soil": "silty",
+    "season": "winter"
+  },
+  {
+    "crop": "Barley",
+    "tempRange": [
+      14,
+      28
+    ],
+    "humidityRange": [
+      35,
+      48
+    ],
+    "soil": "silty",
+    "season": "winter"
+  },
+  {
+    "crop": "Cotton",
+    "tempRange": [
+      12,
+      27
+    ],
+    "humidityRange": [
+      49,
+      60
+    ],
+    "soil": "silty",
+    "season": "winter"
+  },
+  {
+    "crop": "Tea",
+    "tempRange": [
+      22,
+      36
+    ],
+    "humidityRange": [
+      33,
+      56
+    ],
+    "soil": "loamy",
+    "season": "winter"
+  },
+  {
+    "crop": "Tobacco",
+    "tempRange": [
+      13,
+      23
+    ],
+    "humidityRange": [
+      57,
+      83
+    ],
+    "soil": "silty",
+    "season": "winter"
+  },
+  {
+    "crop": "Wheat",
+    "tempRange": [
+      23,
+      32
+    ],
+    "humidityRange": [
+      39,
+      50
+    ],
+    "soil": "loamy",
+    "season": "summer"
+  },
+  {
+    "crop": "Mustard",
+    "tempRange": [
+      17,
+      26
+    ],
+    "humidityRange": [
+      50,
+      65
+    ],
+    "soil": "sandy",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Cotton",
+    "tempRange": [
+      12,
+      22
+    ],
+    "humidityRange": [
+      41,
+      53
+    ],
+    "soil": "clay",
+    "season": "winter"
+  },
+  {
+    "crop": "Wheat",
+    "tempRange": [
+      24,
+      29
+    ],
+    "humidityRange": [
+      49,
+      71
+    ],
+    "soil": "silty",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Rice",
+    "tempRange": [
+      10,
+      21
+    ],
+    "humidityRange": [
+      32,
+      46
+    ],
+    "soil": "clay",
+    "season": "winter"
+  },
+  {
+    "crop": "Mustard",
+    "tempRange": [
+      14,
+      19
+    ],
+    "humidityRange": [
+      38,
+      50
+    ],
+    "soil": "clay",
+    "season": "summer"
+  },
+  {
+    "crop": "Wheat",
+    "tempRange": [
+      19,
+      33
+    ],
+    "humidityRange": [
+      58,
+      74
+    ],
+    "soil": "loamy",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Wheat",
+    "tempRange": [
+      14,
+      19
+    ],
+    "humidityRange": [
+      56,
+      81
+    ],
+    "soil": "loamy",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Cotton",
+    "tempRange": [
+      24,
+      38
+    ],
+    "humidityRange": [
+      31,
+      45
+    ],
+    "soil": "clay",
+    "season": "summer"
+  },
+  {
+    "crop": "Gram",
+    "tempRange": [
+      18,
+      23
+    ],
+    "humidityRange": [
+      38,
+      67
+    ],
+    "soil": "loamy",
+    "season": "winter"
+  },
+  {
+    "crop": "Coffee",
+    "tempRange": [
+      12,
+      20
+    ],
+    "humidityRange": [
+      32,
+      54
+    ],
+    "soil": "silty",
+    "season": "summer"
+  },
+  {
+    "crop": "Pulses",
+    "tempRange": [
+      12,
+      27
+    ],
+    "humidityRange": [
+      45,
+      68
+    ],
+    "soil": "clay",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Sorghum",
+    "tempRange": [
+      16,
+      24
+    ],
+    "humidityRange": [
+      39,
+      61
+    ],
+    "soil": "loamy",
+    "season": "summer"
+  },
+  {
+    "crop": "Cotton",
+    "tempRange": [
+      12,
+      25
+    ],
+    "humidityRange": [
+      39,
+      68
+    ],
+    "soil": "clay",
+    "season": "winter"
+  },
+  {
+    "crop": "Mustard",
+    "tempRange": [
+      19,
+      34
+    ],
+    "humidityRange": [
+      35,
+      63
+    ],
+    "soil": "sandy",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Sugarcane",
+    "tempRange": [
+      25,
+      40
+    ],
+    "humidityRange": [
+      60,
+      85
+    ],
+    "soil": "sandy",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Cotton",
+    "tempRange": [
+      10,
+      20
+    ],
+    "humidityRange": [
+      50,
+      75
+    ],
+    "soil": "clay",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Soybean",
+    "tempRange": [
+      10,
+      16
+    ],
+    "humidityRange": [
+      40,
+      63
+    ],
+    "soil": "silty",
+    "season": "summer"
+  },
+  {
+    "crop": "Sorghum",
+    "tempRange": [
+      22,
+      32
+    ],
+    "humidityRange": [
+      45,
+      64
+    ],
+    "soil": "sandy",
+    "season": "winter"
+  },
+  {
+    "crop": "Mustard",
+    "tempRange": [
+      16,
+      29
+    ],
+    "humidityRange": [
+      43,
+      72
+    ],
+    "soil": "silty",
+    "season": "summer"
+  },
+  {
+    "crop": "Maize",
+    "tempRange": [
+      14,
+      28
+    ],
+    "humidityRange": [
+      40,
+      58
+    ],
+    "soil": "silty",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Maize",
+    "tempRange": [
+      18,
+      32
+    ],
+    "humidityRange": [
+      56,
+      80
+    ],
+    "soil": "silty",
+    "season": "winter"
+  },
+  {
+    "crop": "Rice",
+    "tempRange": [
+      13,
+      18
+    ],
+    "humidityRange": [
+      31,
+      46
+    ],
+    "soil": "silty",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Tobacco",
+    "tempRange": [
+      24,
+      29
+    ],
+    "humidityRange": [
+      60,
+      75
+    ],
+    "soil": "clay",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Sugarcane",
+    "tempRange": [
+      12,
+      27
+    ],
+    "humidityRange": [
+      54,
+      70
+    ],
+    "soil": "clay",
+    "season": "winter"
+  },
+  {
+    "crop": "Coffee",
+    "tempRange": [
+      10,
+      20
+    ],
+    "humidityRange": [
+      53,
+      67
+    ],
+    "soil": "loamy",
+    "season": "winter"
+  },
+  {
+    "crop": "Wheat",
+    "tempRange": [
+      14,
+      20
+    ],
+    "humidityRange": [
+      40,
+      64
+    ],
+    "soil": "silty",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Tea",
+    "tempRange": [
+      13,
+      18
+    ],
+    "humidityRange": [
+      46,
+      62
+    ],
+    "soil": "clay",
+    "season": "summer"
+  },
+  {
+    "crop": "Coffee",
+    "tempRange": [
+      24,
+      35
+    ],
+    "humidityRange": [
+      55,
+      83
+    ],
+    "soil": "silty",
+    "season": "winter"
+  },
+  {
+    "crop": "Soybean",
+    "tempRange": [
+      13,
+      25
+    ],
+    "humidityRange": [
+      33,
+      56
+    ],
+    "soil": "loamy",
+    "season": "winter"
+  },
+  {
+    "crop": "Tobacco",
+    "tempRange": [
+      24,
+      33
+    ],
+    "humidityRange": [
+      54,
+      70
+    ],
+    "soil": "loamy",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Maize",
+    "tempRange": [
+      20,
+      31
+    ],
+    "humidityRange": [
+      49,
+      77
+    ],
+    "soil": "clay",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Millet",
+    "tempRange": [
+      11,
+      24
+    ],
+    "humidityRange": [
+      38,
+      55
+    ],
+    "soil": "silty",
+    "season": "winter"
+  },
+  {
+    "crop": "Tea",
+    "tempRange": [
+      14,
+      24
+    ],
+    "humidityRange": [
+      47,
+      62
+    ],
+    "soil": "loamy",
+    "season": "summer"
+  },
+  {
+    "crop": "Sorghum",
+    "tempRange": [
+      18,
+      29
+    ],
+    "humidityRange": [
+      54,
+      83
+    ],
+    "soil": "clay",
+    "season": "winter"
+  },
+  {
+    "crop": "Mustard",
+    "tempRange": [
+      25,
+      40
+    ],
+    "humidityRange": [
+      51,
+      76
+    ],
+    "soil": "loamy",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Cotton",
+    "tempRange": [
+      12,
+      24
+    ],
+    "humidityRange": [
+      54,
+      84
+    ],
+    "soil": "silty",
+    "season": "summer"
+  },
+  {
+    "crop": "Wheat",
+    "tempRange": [
+      18,
+      32
+    ],
+    "humidityRange": [
+      42,
+      52
+    ],
+    "soil": "sandy",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Tea",
+    "tempRange": [
+      15,
+      30
+    ],
+    "humidityRange": [
+      58,
+      77
+    ],
+    "soil": "silty",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Coffee",
+    "tempRange": [
+      15,
+      23
+    ],
+    "humidityRange": [
+      42,
+      61
+    ],
+    "soil": "silty",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Maize",
+    "tempRange": [
+      19,
+      28
+    ],
+    "humidityRange": [
+      56,
+      81
+    ],
+    "soil": "silty",
+    "season": "winter"
+  },
+  {
+    "crop": "Sugarcane",
+    "tempRange": [
+      11,
+      21
+    ],
+    "humidityRange": [
+      35,
+      55
+    ],
+    "soil": "clay",
+    "season": "summer"
+  },
+  {
+    "crop": "Pea",
+    "tempRange": [
+      14,
+      21
+    ],
+    "humidityRange": [
+      38,
+      68
+    ],
+    "soil": "silty",
+    "season": "summer"
+  },
+  {
+    "crop": "Cotton",
+    "tempRange": [
+      19,
+      26
+    ],
+    "humidityRange": [
+      56,
+      73
+    ],
+    "soil": "clay",
+    "season": "winter"
+  },
+  {
+    "crop": "Sugarcane",
+    "tempRange": [
+      19,
+      32
+    ],
+    "humidityRange": [
+      41,
+      69
+    ],
+    "soil": "loamy",
+    "season": "winter"
+  },
+  {
+    "crop": "Soybean",
+    "tempRange": [
+      24,
+      36
+    ],
+    "humidityRange": [
+      40,
+      57
+    ],
+    "soil": "sandy",
+    "season": "winter"
+  },
+  {
+    "crop": "Pulses",
+    "tempRange": [
+      10,
+      20
+    ],
+    "humidityRange": [
+      47,
+      64
+    ],
+    "soil": "sandy",
+    "season": "summer"
+  },
+  {
+    "crop": "Tea",
+    "tempRange": [
+      19,
+      34
+    ],
+    "humidityRange": [
+      34,
+      48
+    ],
+    "soil": "silty",
+    "season": "summer"
+  },
+  {
+    "crop": "Millet",
+    "tempRange": [
+      19,
+      26
+    ],
+    "humidityRange": [
+      38,
+      67
+    ],
+    "soil": "clay",
+    "season": "winter"
+  },
+  {
+    "crop": "Tobacco",
+    "tempRange": [
+      20,
+      33
+    ],
+    "humidityRange": [
+      56,
+      80
+    ],
+    "soil": "silty",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Lentil",
+    "tempRange": [
+      11,
+      25
+    ],
+    "humidityRange": [
+      57,
+      87
+    ],
+    "soil": "loamy",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Sunflower",
+    "tempRange": [
+      24,
+      31
+    ],
+    "humidityRange": [
+      43,
+      59
+    ],
+    "soil": "clay",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Cotton",
+    "tempRange": [
+      22,
+      34
+    ],
+    "humidityRange": [
+      46,
+      74
+    ],
+    "soil": "sandy",
+    "season": "winter"
+  },
+  {
+    "crop": "Pea",
+    "tempRange": [
+      15,
+      23
+    ],
+    "humidityRange": [
+      52,
+      72
+    ],
+    "soil": "sandy",
+    "season": "summer"
+  },
+  {
+    "crop": "Groundnut",
+    "tempRange": [
+      16,
+      23
+    ],
+    "humidityRange": [
+      43,
+      63
+    ],
+    "soil": "sandy",
+    "season": "summer"
+  },
+  {
+    "crop": "Mustard",
+    "tempRange": [
+      14,
+      27
+    ],
+    "humidityRange": [
+      56,
+      71
+    ],
+    "soil": "sandy",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Rice",
+    "tempRange": [
+      25,
+      39
+    ],
+    "humidityRange": [
+      36,
+      46
+    ],
+    "soil": "clay",
+    "season": "summer"
+  },
+  {
+    "crop": "Rice",
+    "tempRange": [
+      24,
+      35
+    ],
+    "humidityRange": [
+      31,
+      46
+    ],
+    "soil": "silty",
+    "season": "summer"
+  },
+  {
+    "crop": "Soybean",
+    "tempRange": [
+      18,
+      26
+    ],
+    "humidityRange": [
+      59,
+      87
+    ],
+    "soil": "silty",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Tea",
+    "tempRange": [
+      21,
+      35
+    ],
+    "humidityRange": [
+      42,
+      52
+    ],
+    "soil": "silty",
+    "season": "summer"
+  },
+  {
+    "crop": "Rice",
+    "tempRange": [
+      20,
+      27
+    ],
+    "humidityRange": [
+      40,
+      52
+    ],
+    "soil": "sandy",
+    "season": "winter"
+  },
+  {
+    "crop": "Tea",
+    "tempRange": [
+      12,
+      21
+    ],
+    "humidityRange": [
+      57,
+      81
+    ],
+    "soil": "clay",
+    "season": "winter"
+  },
+  {
+    "crop": "Groundnut",
+    "tempRange": [
+      10,
+      20
+    ],
+    "humidityRange": [
+      40,
+      59
+    ],
+    "soil": "silty",
+    "season": "summer"
+  },
+  {
+    "crop": "Mustard",
+    "tempRange": [
+      19,
+      25
+    ],
+    "humidityRange": [
+      57,
+      76
+    ],
+    "soil": "sandy",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Soybean",
+    "tempRange": [
+      13,
+      24
+    ],
+    "humidityRange": [
+      50,
+      71
+    ],
+    "soil": "sandy",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Wheat",
+    "tempRange": [
+      15,
+      29
+    ],
+    "humidityRange": [
+      56,
+      85
+    ],
+    "soil": "clay",
+    "season": "summer"
+  },
+  {
+    "crop": "Cotton",
+    "tempRange": [
+      23,
+      38
+    ],
+    "humidityRange": [
+      37,
+      48
+    ],
+    "soil": "silty",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Maize",
+    "tempRange": [
+      17,
+      24
+    ],
+    "humidityRange": [
+      52,
+      67
+    ],
+    "soil": "loamy",
+    "season": "summer"
+  },
+  {
+    "crop": "Sunflower",
+    "tempRange": [
+      18,
+      26
+    ],
+    "humidityRange": [
+      30,
+      47
+    ],
+    "soil": "silty",
+    "season": "summer"
+  },
+  {
+    "crop": "Mustard",
+    "tempRange": [
+      13,
+      18
+    ],
+    "humidityRange": [
+      56,
+      66
+    ],
+    "soil": "clay",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Jute",
+    "tempRange": [
+      18,
+      24
+    ],
+    "humidityRange": [
+      30,
+      55
+    ],
+    "soil": "clay",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Groundnut",
+    "tempRange": [
+      25,
+      39
+    ],
+    "humidityRange": [
+      57,
+      79
+    ],
+    "soil": "loamy",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Cotton",
+    "tempRange": [
+      21,
+      32
+    ],
+    "humidityRange": [
+      39,
+      51
+    ],
+    "soil": "sandy",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Maize",
+    "tempRange": [
+      17,
+      31
+    ],
+    "humidityRange": [
+      34,
+      56
+    ],
+    "soil": "loamy",
+    "season": "winter"
+  },
+  {
+    "crop": "Mustard",
+    "tempRange": [
+      14,
+      20
+    ],
+    "humidityRange": [
+      38,
+      61
+    ],
+    "soil": "clay",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Wheat",
+    "tempRange": [
+      25,
+      38
+    ],
+    "humidityRange": [
+      34,
+      61
+    ],
+    "soil": "clay",
+    "season": "summer"
+  },
+  {
+    "crop": "Barley",
+    "tempRange": [
+      10,
+      17
+    ],
+    "humidityRange": [
+      46,
+      64
+    ],
+    "soil": "clay",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Sunflower",
+    "tempRange": [
+      13,
+      27
+    ],
+    "humidityRange": [
+      39,
+      64
+    ],
+    "soil": "loamy",
+    "season": "winter"
+  },
+  {
+    "crop": "Pulses",
+    "tempRange": [
+      16,
+      26
+    ],
+    "humidityRange": [
+      41,
+      57
+    ],
+    "soil": "silty",
+    "season": "summer"
+  },
+  {
+    "crop": "Rice",
+    "tempRange": [
+      24,
+      37
+    ],
+    "humidityRange": [
+      37,
+      52
+    ],
+    "soil": "clay",
+    "season": "winter"
+  },
+  {
+    "crop": "Sorghum",
+    "tempRange": [
+      10,
+      20
+    ],
+    "humidityRange": [
+      50,
+      73
+    ],
+    "soil": "clay",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Maize",
+    "tempRange": [
+      14,
+      20
+    ],
+    "humidityRange": [
+      49,
+      61
+    ],
+    "soil": "sandy",
+    "season": "summer"
+  },
+  {
+    "crop": "Millet",
+    "tempRange": [
+      16,
+      24
+    ],
+    "humidityRange": [
+      45,
+      61
+    ],
+    "soil": "clay",
+    "season": "winter"
+  },
+  {
+    "crop": "Soybean",
+    "tempRange": [
+      16,
+      25
+    ],
+    "humidityRange": [
+      50,
+      71
+    ],
+    "soil": "loamy",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Pea",
+    "tempRange": [
+      19,
+      33
+    ],
+    "humidityRange": [
+      39,
+      69
+    ],
+    "soil": "sandy",
+    "season": "summer"
+  },
+  {
+    "crop": "Cotton",
+    "tempRange": [
+      16,
+      30
+    ],
+    "humidityRange": [
+      56,
+      86
+    ],
+    "soil": "loamy",
+    "season": "winter"
+  },
+  {
+    "crop": "Jute",
+    "tempRange": [
+      15,
+      22
+    ],
+    "humidityRange": [
+      36,
+      59
+    ],
+    "soil": "sandy",
+    "season": "summer"
+  },
+  {
+    "crop": "Jute",
+    "tempRange": [
+      22,
+      31
+    ],
+    "humidityRange": [
+      51,
+      61
+    ],
+    "soil": "loamy",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Millet",
+    "tempRange": [
+      18,
+      31
+    ],
+    "humidityRange": [
+      51,
+      73
+    ],
+    "soil": "loamy",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Tobacco",
+    "tempRange": [
+      11,
+      19
+    ],
+    "humidityRange": [
+      46,
+      70
+    ],
+    "soil": "loamy",
+    "season": "summer"
+  },
+  {
+    "crop": "Sunflower",
+    "tempRange": [
+      12,
+      21
+    ],
+    "humidityRange": [
+      37,
+      57
+    ],
+    "soil": "loamy",
+    "season": "winter"
+  },
+  {
+    "crop": "Tea",
+    "tempRange": [
+      11,
+      21
+    ],
+    "humidityRange": [
+      50,
+      71
+    ],
+    "soil": "loamy",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Maize",
+    "tempRange": [
+      25,
+      39
+    ],
+    "humidityRange": [
+      53,
+      67
+    ],
+    "soil": "sandy",
+    "season": "summer"
+  },
+  {
+    "crop": "Wheat",
+    "tempRange": [
+      15,
+      26
+    ],
+    "humidityRange": [
+      50,
+      69
+    ],
+    "soil": "clay",
+    "season": "winter"
+  },
+  {
+    "crop": "Rice",
+    "tempRange": [
+      12,
+      23
+    ],
+    "humidityRange": [
+      30,
+      53
+    ],
+    "soil": "silty",
+    "season": "summer"
+  },
+  {
+    "crop": "Gram",
+    "tempRange": [
+      24,
+      31
+    ],
+    "humidityRange": [
+      60,
+      84
+    ],
+    "soil": "sandy",
+    "season": "winter"
+  },
+  {
+    "crop": "Lentil",
+    "tempRange": [
+      17,
+      32
+    ],
+    "humidityRange": [
+      47,
+      69
+    ],
+    "soil": "sandy",
+    "season": "summer"
+  },
+  {
+    "crop": "Millet",
+    "tempRange": [
+      17,
+      27
+    ],
+    "humidityRange": [
+      36,
+      47
+    ],
+    "soil": "loamy",
+    "season": "summer"
+  },
+  {
+    "crop": "Sorghum",
+    "tempRange": [
+      23,
+      35
+    ],
+    "humidityRange": [
+      46,
+      65
+    ],
+    "soil": "loamy",
+    "season": "winter"
+  },
+  {
+    "crop": "Pulses",
+    "tempRange": [
+      16,
+      23
+    ],
+    "humidityRange": [
+      39,
+      52
+    ],
+    "soil": "silty",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Groundnut",
+    "tempRange": [
+      14,
+      28
+    ],
+    "humidityRange": [
+      44,
+      67
+    ],
+    "soil": "silty",
+    "season": "summer"
+  },
+  {
+    "crop": "Wheat",
+    "tempRange": [
+      15,
+      30
+    ],
+    "humidityRange": [
+      34,
+      63
+    ],
+    "soil": "silty",
+    "season": "winter"
+  },
+  {
+    "crop": "Barley",
+    "tempRange": [
+      21,
+      32
+    ],
+    "humidityRange": [
+      47,
+      62
+    ],
+    "soil": "clay",
+    "season": "summer"
+  },
+  {
+    "crop": "Tobacco",
+    "tempRange": [
+      13,
+      24
+    ],
+    "humidityRange": [
+      45,
+      71
+    ],
+    "soil": "sandy",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Groundnut",
+    "tempRange": [
+      11,
+      22
+    ],
+    "humidityRange": [
+      60,
+      74
+    ],
+    "soil": "silty",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Gram",
+    "tempRange": [
+      16,
+      28
+    ],
+    "humidityRange": [
+      50,
+      63
+    ],
+    "soil": "clay",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Soybean",
+    "tempRange": [
+      12,
+      17
+    ],
+    "humidityRange": [
+      52,
+      76
+    ],
+    "soil": "clay",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Maize",
+    "tempRange": [
+      14,
+      21
+    ],
+    "humidityRange": [
+      55,
+      71
+    ],
+    "soil": "silty",
+    "season": "winter"
+  },
+  {
+    "crop": "Jute",
+    "tempRange": [
+      25,
+      35
+    ],
+    "humidityRange": [
+      33,
+      60
+    ],
+    "soil": "silty",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Pulses",
+    "tempRange": [
+      23,
+      38
+    ],
+    "humidityRange": [
+      59,
+      83
+    ],
+    "soil": "sandy",
+    "season": "winter"
+  },
+  {
+    "crop": "Jute",
+    "tempRange": [
+      16,
+      27
+    ],
+    "humidityRange": [
+      41,
+      61
+    ],
+    "soil": "silty",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Sugarcane",
+    "tempRange": [
+      22,
+      29
+    ],
+    "humidityRange": [
+      49,
+      66
+    ],
+    "soil": "loamy",
+    "season": "winter"
+  },
+  {
+    "crop": "Jute",
+    "tempRange": [
+      10,
+      20
+    ],
+    "humidityRange": [
+      46,
+      68
+    ],
+    "soil": "clay",
+    "season": "winter"
+  },
+  {
+    "crop": "Barley",
+    "tempRange": [
+      16,
+      23
+    ],
+    "humidityRange": [
+      48,
+      77
+    ],
+    "soil": "clay",
+    "season": "winter"
+  },
+  {
+    "crop": "Rice",
+    "tempRange": [
+      12,
+      21
+    ],
+    "humidityRange": [
+      33,
+      54
+    ],
+    "soil": "loamy",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Barley",
+    "tempRange": [
+      11,
+      21
+    ],
+    "humidityRange": [
+      46,
+      75
+    ],
+    "soil": "clay",
+    "season": "summer"
+  },
+  {
+    "crop": "Pulses",
+    "tempRange": [
+      25,
+      38
+    ],
+    "humidityRange": [
+      37,
+      57
+    ],
+    "soil": "sandy",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Soybean",
+    "tempRange": [
+      10,
+      22
+    ],
+    "humidityRange": [
+      33,
+      62
+    ],
+    "soil": "loamy",
+    "season": "summer"
+  },
+  {
+    "crop": "Groundnut",
+    "tempRange": [
+      23,
+      31
+    ],
+    "humidityRange": [
+      40,
+      66
+    ],
+    "soil": "loamy",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Lentil",
+    "tempRange": [
+      17,
+      31
+    ],
+    "humidityRange": [
+      30,
+      54
+    ],
+    "soil": "loamy",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Wheat",
+    "tempRange": [
+      24,
+      30
+    ],
+    "humidityRange": [
+      49,
+      66
+    ],
+    "soil": "silty",
+    "season": "winter"
+  },
+  {
+    "crop": "Mustard",
+    "tempRange": [
+      22,
+      27
+    ],
+    "humidityRange": [
+      44,
+      59
+    ],
+    "soil": "clay",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Tea",
+    "tempRange": [
+      10,
+      25
+    ],
+    "humidityRange": [
+      45,
+      57
+    ],
+    "soil": "silty",
+    "season": "winter"
+  },
+  {
+    "crop": "Sugarcane",
+    "tempRange": [
+      22,
+      28
+    ],
+    "humidityRange": [
+      30,
+      46
+    ],
+    "soil": "silty",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Sugarcane",
+    "tempRange": [
+      18,
+      25
+    ],
+    "humidityRange": [
+      53,
+      76
+    ],
+    "soil": "sandy",
+    "season": "summer"
+  },
+  {
+    "crop": "Pulses",
+    "tempRange": [
+      10,
+      21
+    ],
+    "humidityRange": [
+      43,
+      69
+    ],
+    "soil": "clay",
+    "season": "summer"
+  },
+  {
+    "crop": "Gram",
+    "tempRange": [
+      11,
+      23
+    ],
+    "humidityRange": [
+      45,
+      63
+    ],
+    "soil": "silty",
+    "season": "summer"
+  },
+  {
+    "crop": "Lentil",
+    "tempRange": [
+      16,
+      25
+    ],
+    "humidityRange": [
+      37,
+      54
+    ],
+    "soil": "clay",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Jute",
+    "tempRange": [
+      16,
+      25
+    ],
+    "humidityRange": [
+      43,
+      63
+    ],
+    "soil": "clay",
+    "season": "summer"
+  },
+  {
+    "crop": "Sugarcane",
+    "tempRange": [
+      12,
+      23
+    ],
+    "humidityRange": [
+      58,
+      78
+    ],
+    "soil": "sandy",
+    "season": "summer"
+  },
+  {
+    "crop": "Tea",
+    "tempRange": [
+      24,
+      38
+    ],
+    "humidityRange": [
+      37,
+      57
+    ],
+    "soil": "loamy",
+    "season": "summer"
+  },
+  {
+    "crop": "Mustard",
+    "tempRange": [
+      22,
+      31
+    ],
+    "humidityRange": [
+      49,
+      71
+    ],
+    "soil": "silty",
+    "season": "winter"
+  },
+  {
+    "crop": "Tea",
+    "tempRange": [
+      15,
+      26
+    ],
+    "humidityRange": [
+      40,
+      69
+    ],
+    "soil": "sandy",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Sugarcane",
+    "tempRange": [
+      23,
+      28
+    ],
+    "humidityRange": [
+      59,
+      83
+    ],
+    "soil": "silty",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Cotton",
+    "tempRange": [
+      14,
+      26
+    ],
+    "humidityRange": [
+      37,
+      65
+    ],
+    "soil": "silty",
+    "season": "winter"
+  },
+  {
+    "crop": "Jute",
+    "tempRange": [
+      17,
+      31
+    ],
+    "humidityRange": [
+      57,
+      87
+    ],
+    "soil": "clay",
+    "season": "summer"
+  },
+  {
+    "crop": "Tea",
+    "tempRange": [
+      15,
+      29
+    ],
+    "humidityRange": [
+      40,
+      68
+    ],
+    "soil": "silty",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Wheat",
+    "tempRange": [
+      13,
+      24
+    ],
+    "humidityRange": [
+      32,
+      47
+    ],
+    "soil": "silty",
+    "season": "winter"
+  },
+  {
+    "crop": "Pulses",
+    "tempRange": [
+      15,
+      23
+    ],
+    "humidityRange": [
+      32,
+      44
+    ],
+    "soil": "silty",
+    "season": "winter"
+  },
+  {
+    "crop": "Wheat",
+    "tempRange": [
+      18,
+      25
+    ],
+    "humidityRange": [
+      41,
+      63
+    ],
+    "soil": "silty",
+    "season": "summer"
+  },
+  {
+    "crop": "Millet",
+    "tempRange": [
+      14,
+      25
+    ],
+    "humidityRange": [
+      39,
+      53
+    ],
+    "soil": "loamy",
+    "season": "summer"
+  },
+  {
+    "crop": "Cotton",
+    "tempRange": [
+      20,
+      32
+    ],
+    "humidityRange": [
+      31,
+      45
+    ],
+    "soil": "loamy",
+    "season": "summer"
+  },
+  {
+    "crop": "Coffee",
+    "tempRange": [
+      24,
+      33
+    ],
+    "humidityRange": [
+      46,
+      74
+    ],
+    "soil": "silty",
+    "season": "winter"
+  },
+  {
+    "crop": "Sunflower",
+    "tempRange": [
+      17,
+      31
+    ],
+    "humidityRange": [
+      33,
+      53
+    ],
+    "soil": "sandy",
+    "season": "winter"
+  },
+  {
+    "crop": "Gram",
+    "tempRange": [
+      13,
+      18
+    ],
+    "humidityRange": [
+      44,
+      73
+    ],
+    "soil": "sandy",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Rice",
+    "tempRange": [
+      19,
+      24
+    ],
+    "humidityRange": [
+      36,
+      47
+    ],
+    "soil": "sandy",
+    "season": "summer"
+  },
+  {
+    "crop": "Tea",
+    "tempRange": [
+      12,
+      17
+    ],
+    "humidityRange": [
+      44,
+      57
+    ],
+    "soil": "silty",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Sorghum",
+    "tempRange": [
+      19,
+      30
+    ],
+    "humidityRange": [
+      43,
+      63
+    ],
+    "soil": "silty",
+    "season": "summer"
+  },
+  {
+    "crop": "Tea",
+    "tempRange": [
+      17,
+      25
+    ],
+    "humidityRange": [
+      43,
+      57
+    ],
+    "soil": "loamy",
+    "season": "winter"
+  },
+  {
+    "crop": "Pea",
+    "tempRange": [
+      12,
+      24
+    ],
+    "humidityRange": [
+      55,
+      78
+    ],
+    "soil": "sandy",
+    "season": "winter"
+  },
+  {
+    "crop": "Tea",
+    "tempRange": [
+      13,
+      20
+    ],
+    "humidityRange": [
+      42,
+      63
+    ],
+    "soil": "loamy",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Wheat",
+    "tempRange": [
+      11,
+      22
+    ],
+    "humidityRange": [
+      57,
+      80
+    ],
+    "soil": "clay",
+    "season": "winter"
+  },
+  {
+    "crop": "Rice",
+    "tempRange": [
+      24,
+      31
+    ],
+    "humidityRange": [
+      42,
+      65
+    ],
+    "soil": "clay",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Cotton",
+    "tempRange": [
+      11,
+      22
+    ],
+    "humidityRange": [
+      32,
+      60
+    ],
+    "soil": "loamy",
+    "season": "winter"
+  },
+  {
+    "crop": "Rice",
+    "tempRange": [
+      14,
+      22
+    ],
+    "humidityRange": [
+      31,
+      50
+    ],
+    "soil": "sandy",
+    "season": "winter"
+  },
+  {
+    "crop": "Cotton",
+    "tempRange": [
+      13,
+      23
+    ],
+    "humidityRange": [
+      45,
+      66
+    ],
+    "soil": "silty",
+    "season": "winter"
+  },
+  {
+    "crop": "Groundnut",
+    "tempRange": [
+      11,
+      16
+    ],
+    "humidityRange": [
+      48,
+      76
+    ],
+    "soil": "loamy",
+    "season": "winter"
+  },
+  {
+    "crop": "Groundnut",
+    "tempRange": [
+      24,
+      37
+    ],
+    "humidityRange": [
+      31,
+      55
+    ],
+    "soil": "sandy",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Groundnut",
+    "tempRange": [
+      12,
+      24
+    ],
+    "humidityRange": [
+      55,
+      65
+    ],
+    "soil": "clay",
+    "season": "summer"
+  },
+  {
+    "crop": "Rice",
+    "tempRange": [
+      15,
+      23
+    ],
+    "humidityRange": [
+      49,
+      75
+    ],
+    "soil": "sandy",
+    "season": "summer"
+  },
+  {
+    "crop": "Barley",
+    "tempRange": [
+      23,
+      34
+    ],
+    "humidityRange": [
+      36,
+      66
+    ],
+    "soil": "clay",
+    "season": "summer"
+  },
+  {
+    "crop": "Gram",
+    "tempRange": [
+      20,
+      26
+    ],
+    "humidityRange": [
+      58,
+      85
+    ],
+    "soil": "clay",
+    "season": "summer"
+  },
+  {
+    "crop": "Pulses",
+    "tempRange": [
+      10,
+      15
+    ],
+    "humidityRange": [
+      46,
+      67
+    ],
+    "soil": "sandy",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Cotton",
+    "tempRange": [
+      24,
+      33
+    ],
+    "humidityRange": [
+      44,
+      57
+    ],
+    "soil": "loamy",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Tobacco",
+    "tempRange": [
+      12,
+      23
+    ],
+    "humidityRange": [
+      57,
+      67
+    ],
+    "soil": "sandy",
+    "season": "summer"
+  },
+  {
+    "crop": "Sorghum",
+    "tempRange": [
+      17,
+      23
+    ],
+    "humidityRange": [
+      60,
+      82
+    ],
+    "soil": "clay",
+    "season": "winter"
+  },
+  {
+    "crop": "Wheat",
+    "tempRange": [
+      16,
+      26
+    ],
+    "humidityRange": [
+      52,
+      76
+    ],
+    "soil": "loamy",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Jute",
+    "tempRange": [
+      21,
+      30
+    ],
+    "humidityRange": [
+      34,
+      61
+    ],
+    "soil": "sandy",
+    "season": "summer"
+  },
+  {
+    "crop": "Cotton",
+    "tempRange": [
+      18,
+      27
+    ],
+    "humidityRange": [
+      52,
+      62
+    ],
+    "soil": "silty",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Cotton",
+    "tempRange": [
+      24,
+      36
+    ],
+    "humidityRange": [
+      40,
+      56
+    ],
+    "soil": "silty",
+    "season": "winter"
+  },
+  {
+    "crop": "Maize",
+    "tempRange": [
+      10,
+      21
+    ],
+    "humidityRange": [
+      39,
+      56
+    ],
+    "soil": "sandy",
+    "season": "winter"
+  },
+  {
+    "crop": "Tea",
+    "tempRange": [
+      17,
+      30
+    ],
+    "humidityRange": [
+      45,
+      64
+    ],
+    "soil": "loamy",
+    "season": "winter"
+  },
+  {
+    "crop": "Sugarcane",
+    "tempRange": [
+      12,
+      26
+    ],
+    "humidityRange": [
+      50,
+      79
+    ],
+    "soil": "sandy",
+    "season": "winter"
+  },
+  {
+    "crop": "Coffee",
+    "tempRange": [
+      17,
+      23
+    ],
+    "humidityRange": [
+      31,
+      42
+    ],
+    "soil": "loamy",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Sunflower",
+    "tempRange": [
+      21,
+      34
+    ],
+    "humidityRange": [
+      42,
+      61
+    ],
+    "soil": "sandy",
+    "season": "winter"
+  },
+  {
+    "crop": "Maize",
+    "tempRange": [
+      12,
+      25
+    ],
+    "humidityRange": [
+      42,
+      71
+    ],
+    "soil": "sandy",
+    "season": "summer"
+  },
+  {
+    "crop": "Gram",
+    "tempRange": [
+      22,
+      33
+    ],
+    "humidityRange": [
+      41,
+      64
+    ],
+    "soil": "silty",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Tea",
+    "tempRange": [
+      19,
+      29
+    ],
+    "humidityRange": [
+      32,
+      47
+    ],
+    "soil": "sandy",
+    "season": "summer"
+  },
+  {
+    "crop": "Groundnut",
+    "tempRange": [
+      20,
+      35
+    ],
+    "humidityRange": [
+      49,
+      75
+    ],
+    "soil": "silty",
+    "season": "summer"
+  },
+  {
+    "crop": "Pea",
+    "tempRange": [
+      19,
+      29
+    ],
+    "humidityRange": [
+      36,
+      65
+    ],
+    "soil": "silty",
+    "season": "summer"
+  },
+  {
+    "crop": "Maize",
+    "tempRange": [
+      15,
+      29
+    ],
+    "humidityRange": [
+      51,
+      68
+    ],
+    "soil": "loamy",
+    "season": "winter"
+  },
+  {
+    "crop": "Soybean",
+    "tempRange": [
+      13,
+      18
+    ],
+    "humidityRange": [
+      55,
+      78
+    ],
+    "soil": "loamy",
+    "season": "summer"
+  },
+  {
+    "crop": "Rice",
+    "tempRange": [
+      25,
+      35
+    ],
+    "humidityRange": [
+      59,
+      80
+    ],
+    "soil": "loamy",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Sunflower",
+    "tempRange": [
+      10,
+      15
+    ],
+    "humidityRange": [
+      51,
+      69
+    ],
+    "soil": "clay",
+    "season": "summer"
+  },
+  {
+    "crop": "Tea",
+    "tempRange": [
+      20,
+      26
+    ],
+    "humidityRange": [
+      43,
+      64
+    ],
+    "soil": "clay",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Pea",
+    "tempRange": [
+      15,
+      25
+    ],
+    "humidityRange": [
+      53,
+      72
+    ],
+    "soil": "loamy",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Mustard",
+    "tempRange": [
+      13,
+      27
+    ],
+    "humidityRange": [
+      49,
+      79
+    ],
+    "soil": "silty",
+    "season": "winter"
+  },
+  {
+    "crop": "Millet",
+    "tempRange": [
+      16,
+      26
+    ],
+    "humidityRange": [
+      38,
+      65
+    ],
+    "soil": "clay",
+    "season": "summer"
+  },
+  {
+    "crop": "Rice",
+    "tempRange": [
+      21,
+      33
+    ],
+    "humidityRange": [
+      31,
+      48
+    ],
+    "soil": "clay",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Groundnut",
+    "tempRange": [
+      20,
+      33
+    ],
+    "humidityRange": [
+      58,
+      69
+    ],
+    "soil": "clay",
+    "season": "winter"
+  },
+  {
+    "crop": "Millet",
+    "tempRange": [
+      19,
+      28
+    ],
+    "humidityRange": [
+      45,
+      58
+    ],
+    "soil": "sandy",
+    "season": "winter"
+  },
+  {
+    "crop": "Coffee",
+    "tempRange": [
+      23,
+      37
+    ],
+    "humidityRange": [
+      44,
+      64
+    ],
+    "soil": "sandy",
+    "season": "summer"
+  },
+  {
+    "crop": "Gram",
+    "tempRange": [
+      10,
+      21
+    ],
+    "humidityRange": [
+      36,
+      51
+    ],
+    "soil": "sandy",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Sunflower",
+    "tempRange": [
+      15,
+      29
+    ],
+    "humidityRange": [
+      48,
+      63
+    ],
+    "soil": "silty",
+    "season": "winter"
+  },
+  {
+    "crop": "Pulses",
+    "tempRange": [
+      18,
+      24
+    ],
+    "humidityRange": [
+      54,
+      68
+    ],
+    "soil": "loamy",
+    "season": "winter"
+  },
+  {
+    "crop": "Pulses",
+    "tempRange": [
+      23,
+      38
+    ],
+    "humidityRange": [
+      42,
+      69
+    ],
+    "soil": "sandy",
+    "season": "summer"
+  },
+  {
+    "crop": "Maize",
+    "tempRange": [
+      24,
+      29
+    ],
+    "humidityRange": [
+      56,
+      84
+    ],
+    "soil": "clay",
+    "season": "summer"
+  },
+  {
+    "crop": "Sorghum",
+    "tempRange": [
+      24,
+      39
+    ],
+    "humidityRange": [
+      54,
+      83
+    ],
+    "soil": "loamy",
+    "season": "winter"
+  },
+  {
+    "crop": "Millet",
+    "tempRange": [
+      21,
+      26
+    ],
+    "humidityRange": [
+      50,
+      78
+    ],
+    "soil": "sandy",
+    "season": "winter"
+  },
+  {
+    "crop": "Gram",
+    "tempRange": [
+      23,
+      34
+    ],
+    "humidityRange": [
+      55,
+      82
+    ],
+    "soil": "silty",
+    "season": "winter"
+  },
+  {
+    "crop": "Sunflower",
+    "tempRange": [
+      21,
+      30
+    ],
+    "humidityRange": [
+      31,
+      54
+    ],
+    "soil": "silty",
+    "season": "winter"
+  },
+  {
+    "crop": "Groundnut",
+    "tempRange": [
+      22,
+      33
+    ],
+    "humidityRange": [
+      45,
+      60
+    ],
+    "soil": "clay",
+    "season": "winter"
+  },
+  {
+    "crop": "Gram",
+    "tempRange": [
+      14,
+      24
+    ],
+    "humidityRange": [
+      54,
+      65
+    ],
+    "soil": "clay",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Barley",
+    "tempRange": [
+      16,
+      29
+    ],
+    "humidityRange": [
+      46,
+      64
+    ],
+    "soil": "loamy",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Maize",
+    "tempRange": [
+      21,
+      30
+    ],
+    "humidityRange": [
+      57,
+      87
+    ],
+    "soil": "silty",
+    "season": "winter"
+  },
+  {
+    "crop": "Tobacco",
+    "tempRange": [
+      19,
+      30
+    ],
+    "humidityRange": [
+      40,
+      68
+    ],
+    "soil": "silty",
+    "season": "summer"
+  },
+  {
+    "crop": "Barley",
+    "tempRange": [
+      12,
+      18
+    ],
+    "humidityRange": [
+      43,
+      64
+    ],
+    "soil": "clay",
+    "season": "winter"
+  },
+  {
+    "crop": "Coffee",
+    "tempRange": [
+      16,
+      31
+    ],
+    "humidityRange": [
+      30,
+      52
+    ],
+    "soil": "loamy",
+    "season": "summer"
+  },
+  {
+    "crop": "Groundnut",
+    "tempRange": [
+      20,
+      28
+    ],
+    "humidityRange": [
+      31,
+      45
+    ],
+    "soil": "loamy",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Barley",
+    "tempRange": [
+      25,
+      40
+    ],
+    "humidityRange": [
+      44,
+      54
+    ],
+    "soil": "loamy",
+    "season": "winter"
+  },
+  {
+    "crop": "Pulses",
+    "tempRange": [
+      12,
+      22
+    ],
+    "humidityRange": [
+      32,
+      49
+    ],
+    "soil": "silty",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Wheat",
+    "tempRange": [
+      22,
+      28
+    ],
+    "humidityRange": [
+      51,
+      74
+    ],
+    "soil": "loamy",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Pulses",
+    "tempRange": [
+      25,
+      32
+    ],
+    "humidityRange": [
+      34,
+      57
+    ],
+    "soil": "sandy",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Millet",
+    "tempRange": [
+      22,
+      35
+    ],
+    "humidityRange": [
+      39,
+      64
+    ],
+    "soil": "loamy",
+    "season": "summer"
+  },
+  {
+    "crop": "Tea",
+    "tempRange": [
+      18,
+      29
+    ],
+    "humidityRange": [
+      59,
+      69
+    ],
+    "soil": "silty",
+    "season": "summer"
+  },
+  {
+    "crop": "Rice",
+    "tempRange": [
+      10,
+      23
+    ],
+    "humidityRange": [
+      34,
+      46
+    ],
+    "soil": "clay",
+    "season": "summer"
+  },
+  {
+    "crop": "Barley",
+    "tempRange": [
+      23,
+      32
+    ],
+    "humidityRange": [
+      33,
+      46
+    ],
+    "soil": "sandy",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Gram",
+    "tempRange": [
+      14,
+      29
+    ],
+    "humidityRange": [
+      55,
+      79
+    ],
+    "soil": "sandy",
+    "season": "summer"
+  },
+  {
+    "crop": "Groundnut",
+    "tempRange": [
+      17,
+      31
+    ],
+    "humidityRange": [
+      32,
+      51
+    ],
+    "soil": "silty",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Cotton",
+    "tempRange": [
+      13,
+      22
+    ],
+    "humidityRange": [
+      54,
+      65
+    ],
+    "soil": "sandy",
+    "season": "winter"
+  },
+  {
+    "crop": "Coffee",
+    "tempRange": [
+      16,
+      24
+    ],
+    "humidityRange": [
+      30,
+      56
+    ],
+    "soil": "silty",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Maize",
+    "tempRange": [
+      12,
+      21
+    ],
+    "humidityRange": [
+      49,
+      68
+    ],
+    "soil": "silty",
+    "season": "summer"
+  },
+  {
+    "crop": "Lentil",
+    "tempRange": [
+      14,
+      24
+    ],
+    "humidityRange": [
+      39,
+      55
+    ],
+    "soil": "clay",
+    "season": "summer"
+  },
+  {
+    "crop": "Pulses",
+    "tempRange": [
+      25,
+      40
+    ],
+    "humidityRange": [
+      39,
+      68
+    ],
+    "soil": "clay",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Sorghum",
+    "tempRange": [
+      19,
+      24
+    ],
+    "humidityRange": [
+      60,
+      88
+    ],
+    "soil": "clay",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Jute",
+    "tempRange": [
+      17,
+      28
+    ],
+    "humidityRange": [
+      51,
+      71
+    ],
+    "soil": "sandy",
+    "season": "summer"
+  },
+  {
+    "crop": "Rice",
+    "tempRange": [
+      13,
+      24
+    ],
+    "humidityRange": [
+      47,
+      64
+    ],
+    "soil": "sandy",
+    "season": "summer"
+  },
+  {
+    "crop": "Wheat",
+    "tempRange": [
+      21,
+      26
+    ],
+    "humidityRange": [
+      43,
+      65
+    ],
+    "soil": "loamy",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Mustard",
+    "tempRange": [
+      23,
+      29
+    ],
+    "humidityRange": [
+      40,
+      52
+    ],
+    "soil": "loamy",
+    "season": "winter"
+  },
+  {
+    "crop": "Millet",
+    "tempRange": [
+      23,
+      30
+    ],
+    "humidityRange": [
+      45,
+      72
+    ],
+    "soil": "loamy",
+    "season": "summer"
+  },
+  {
+    "crop": "Lentil",
+    "tempRange": [
+      12,
+      21
+    ],
+    "humidityRange": [
+      43,
+      67
+    ],
+    "soil": "clay",
+    "season": "winter"
+  },
+  {
+    "crop": "Maize",
+    "tempRange": [
+      13,
+      18
+    ],
+    "humidityRange": [
+      33,
+      63
+    ],
+    "soil": "clay",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Soybean",
+    "tempRange": [
+      10,
+      16
+    ],
+    "humidityRange": [
+      30,
+      44
+    ],
+    "soil": "silty",
+    "season": "summer"
+  },
+  {
+    "crop": "Wheat",
+    "tempRange": [
+      25,
+      40
+    ],
+    "humidityRange": [
+      47,
+      61
+    ],
+    "soil": "clay",
+    "season": "winter"
+  },
+  {
+    "crop": "Coffee",
+    "tempRange": [
+      14,
+      19
+    ],
+    "humidityRange": [
+      60,
+      84
+    ],
+    "soil": "loamy",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Pulses",
+    "tempRange": [
+      16,
+      29
+    ],
+    "humidityRange": [
+      32,
+      56
+    ],
+    "soil": "silty",
+    "season": "summer"
+  },
+  {
+    "crop": "Millet",
+    "tempRange": [
+      23,
+      34
+    ],
+    "humidityRange": [
+      36,
+      51
+    ],
+    "soil": "silty",
+    "season": "summer"
+  },
+  {
+    "crop": "Coffee",
+    "tempRange": [
+      21,
+      35
+    ],
+    "humidityRange": [
+      57,
+      76
+    ],
+    "soil": "loamy",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Groundnut",
+    "tempRange": [
+      10,
+      20
+    ],
+    "humidityRange": [
+      44,
+      58
+    ],
+    "soil": "clay",
+    "season": "winter"
+  },
+  {
+    "crop": "Millet",
+    "tempRange": [
+      20,
+      26
+    ],
+    "humidityRange": [
+      36,
+      50
+    ],
+    "soil": "sandy",
+    "season": "summer"
+  },
+  {
+    "crop": "Pulses",
+    "tempRange": [
+      10,
+      23
+    ],
+    "humidityRange": [
+      32,
+      56
+    ],
+    "soil": "clay",
+    "season": "summer"
+  },
+  {
+    "crop": "Pulses",
+    "tempRange": [
+      25,
+      35
+    ],
+    "humidityRange": [
+      34,
+      50
+    ],
+    "soil": "clay",
+    "season": "winter"
+  },
+  {
+    "crop": "Cotton",
+    "tempRange": [
+      20,
+      27
+    ],
+    "humidityRange": [
+      32,
+      45
+    ],
+    "soil": "silty",
+    "season": "winter"
+  },
+  {
+    "crop": "Maize",
+    "tempRange": [
+      17,
+      24
+    ],
+    "humidityRange": [
+      56,
+      71
+    ],
+    "soil": "silty",
+    "season": "summer"
+  },
+  {
+    "crop": "Soybean",
+    "tempRange": [
+      10,
+      23
+    ],
+    "humidityRange": [
+      57,
+      85
+    ],
+    "soil": "silty",
+    "season": "winter"
+  },
+  {
+    "crop": "Lentil",
+    "tempRange": [
+      10,
+      22
+    ],
+    "humidityRange": [
+      39,
+      52
+    ],
+    "soil": "silty",
+    "season": "winter"
+  },
+  {
+    "crop": "Wheat",
+    "tempRange": [
+      14,
+      29
+    ],
+    "humidityRange": [
+      56,
+      78
+    ],
+    "soil": "loamy",
+    "season": "winter"
+  },
+  {
+    "crop": "Sunflower",
+    "tempRange": [
+      18,
+      28
+    ],
+    "humidityRange": [
+      56,
+      82
+    ],
+    "soil": "silty",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Cotton",
+    "tempRange": [
+      19,
+      34
+    ],
+    "humidityRange": [
+      47,
+      59
+    ],
+    "soil": "sandy",
+    "season": "winter"
+  },
+  {
+    "crop": "Pulses",
+    "tempRange": [
+      24,
+      29
+    ],
+    "humidityRange": [
+      31,
+      55
+    ],
+    "soil": "silty",
+    "season": "summer"
+  },
+  {
+    "crop": "Pea",
+    "tempRange": [
+      11,
+      24
+    ],
+    "humidityRange": [
+      45,
+      73
+    ],
+    "soil": "silty",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Sorghum",
+    "tempRange": [
+      16,
+      21
+    ],
+    "humidityRange": [
+      44,
+      54
+    ],
+    "soil": "loamy",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Cotton",
+    "tempRange": [
+      20,
+      25
+    ],
+    "humidityRange": [
+      38,
+      53
+    ],
+    "soil": "sandy",
+    "season": "summer"
+  },
+  {
+    "crop": "Wheat",
+    "tempRange": [
+      15,
+      22
+    ],
+    "humidityRange": [
+      42,
+      66
+    ],
+    "soil": "silty",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Barley",
+    "tempRange": [
+      14,
+      23
+    ],
+    "humidityRange": [
+      41,
+      64
+    ],
+    "soil": "silty",
+    "season": "winter"
+  },
+  {
+    "crop": "Cotton",
+    "tempRange": [
+      15,
+      22
+    ],
+    "humidityRange": [
+      39,
+      58
+    ],
+    "soil": "loamy",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Gram",
+    "tempRange": [
+      19,
+      26
+    ],
+    "humidityRange": [
+      31,
+      61
+    ],
+    "soil": "clay",
+    "season": "winter"
+  },
+  {
+    "crop": "Tobacco",
+    "tempRange": [
+      18,
+      27
+    ],
+    "humidityRange": [
+      52,
+      66
+    ],
+    "soil": "sandy",
+    "season": "winter"
+  },
+  {
+    "crop": "Jute",
+    "tempRange": [
+      11,
+      16
+    ],
+    "humidityRange": [
+      58,
+      81
+    ],
+    "soil": "sandy",
+    "season": "winter"
+  },
+  {
+    "crop": "Gram",
+    "tempRange": [
+      11,
+      17
+    ],
+    "humidityRange": [
+      36,
+      60
+    ],
+    "soil": "silty",
+    "season": "summer"
+  },
+  {
+    "crop": "Pea",
+    "tempRange": [
+      21,
+      36
+    ],
+    "humidityRange": [
+      43,
+      65
+    ],
+    "soil": "clay",
+    "season": "winter"
+  },
+  {
+    "crop": "Soybean",
+    "tempRange": [
+      17,
+      23
+    ],
+    "humidityRange": [
+      55,
+      75
+    ],
+    "soil": "sandy",
+    "season": "winter"
+  },
+  {
+    "crop": "Pulses",
+    "tempRange": [
+      19,
+      27
+    ],
+    "humidityRange": [
+      52,
+      65
+    ],
+    "soil": "clay",
+    "season": "winter"
+  },
+  {
+    "crop": "Groundnut",
+    "tempRange": [
+      14,
+      21
+    ],
+    "humidityRange": [
+      37,
+      63
+    ],
+    "soil": "silty",
+    "season": "summer"
+  },
+  {
+    "crop": "Maize",
+    "tempRange": [
+      14,
+      28
+    ],
+    "humidityRange": [
+      40,
+      64
+    ],
+    "soil": "silty",
+    "season": "winter"
+  },
+  {
+    "crop": "Groundnut",
+    "tempRange": [
+      13,
+      28
+    ],
+    "humidityRange": [
+      45,
+      73
+    ],
+    "soil": "loamy",
+    "season": "winter"
+  },
+  {
+    "crop": "Tobacco",
+    "tempRange": [
+      13,
+      27
+    ],
+    "humidityRange": [
+      59,
+      84
+    ],
+    "soil": "silty",
+    "season": "winter"
+  },
+  {
+    "crop": "Rice",
+    "tempRange": [
+      18,
+      25
+    ],
+    "humidityRange": [
+      41,
+      62
+    ],
+    "soil": "silty",
+    "season": "summer"
+  },
+  {
+    "crop": "Gram",
+    "tempRange": [
+      12,
+      27
+    ],
+    "humidityRange": [
+      52,
+      80
+    ],
+    "soil": "clay",
+    "season": "summer"
+  },
+  {
+    "crop": "Maize",
+    "tempRange": [
+      21,
+      34
+    ],
+    "humidityRange": [
+      31,
+      56
+    ],
+    "soil": "clay",
+    "season": "summer"
+  },
+  {
+    "crop": "Jute",
+    "tempRange": [
+      17,
+      27
+    ],
+    "humidityRange": [
+      38,
+      65
+    ],
+    "soil": "silty",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Tea",
+    "tempRange": [
+      14,
+      27
+    ],
+    "humidityRange": [
+      47,
+      72
+    ],
+    "soil": "clay",
+    "season": "summer"
+  },
+  {
+    "crop": "Tea",
+    "tempRange": [
+      21,
+      28
+    ],
+    "humidityRange": [
+      44,
+      64
+    ],
+    "soil": "loamy",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Jute",
+    "tempRange": [
+      22,
+      33
+    ],
+    "humidityRange": [
+      37,
+      52
+    ],
+    "soil": "sandy",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Groundnut",
+    "tempRange": [
+      14,
+      19
+    ],
+    "humidityRange": [
+      39,
+      49
+    ],
+    "soil": "sandy",
+    "season": "winter"
+  },
+  {
+    "crop": "Pea",
+    "tempRange": [
+      23,
+      38
+    ],
+    "humidityRange": [
+      56,
+      70
+    ],
+    "soil": "loamy",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Tobacco",
+    "tempRange": [
+      12,
+      19
+    ],
+    "humidityRange": [
+      38,
+      50
+    ],
+    "soil": "sandy",
+    "season": "summer"
+  },
+  {
+    "crop": "Maize",
+    "tempRange": [
+      13,
+      28
+    ],
+    "humidityRange": [
+      50,
+      79
+    ],
+    "soil": "silty",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Lentil",
+    "tempRange": [
+      10,
+      25
+    ],
+    "humidityRange": [
+      49,
+      65
+    ],
+    "soil": "sandy",
+    "season": "summer"
+  },
+  {
+    "crop": "Barley",
+    "tempRange": [
+      16,
+      31
+    ],
+    "humidityRange": [
+      43,
+      71
+    ],
+    "soil": "sandy",
+    "season": "winter"
+  },
+  {
+    "crop": "Groundnut",
+    "tempRange": [
+      23,
+      33
+    ],
+    "humidityRange": [
+      57,
+      78
+    ],
+    "soil": "clay",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Tobacco",
+    "tempRange": [
+      24,
+      30
+    ],
+    "humidityRange": [
+      53,
+      78
+    ],
+    "soil": "clay",
+    "season": "winter"
+  },
+  {
+    "crop": "Sunflower",
+    "tempRange": [
+      18,
+      26
+    ],
+    "humidityRange": [
+      36,
+      63
+    ],
+    "soil": "sandy",
+    "season": "summer"
+  },
+  {
+    "crop": "Millet",
+    "tempRange": [
+      12,
+      25
+    ],
+    "humidityRange": [
+      30,
+      59
+    ],
+    "soil": "clay",
+    "season": "winter"
+  },
+  {
+    "crop": "Barley",
+    "tempRange": [
+      23,
+      35
+    ],
+    "humidityRange": [
+      44,
+      61
+    ],
+    "soil": "sandy",
+    "season": "summer"
+  },
+  {
+    "crop": "Lentil",
+    "tempRange": [
+      24,
+      39
+    ],
+    "humidityRange": [
+      34,
+      52
+    ],
+    "soil": "clay",
+    "season": "winter"
+  },
+  {
+    "crop": "Lentil",
+    "tempRange": [
+      11,
+      21
+    ],
+    "humidityRange": [
+      44,
+      71
+    ],
+    "soil": "silty",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Sugarcane",
+    "tempRange": [
+      19,
+      32
+    ],
+    "humidityRange": [
+      50,
+      73
+    ],
+    "soil": "silty",
+    "season": "winter"
+  },
+  {
+    "crop": "Sugarcane",
+    "tempRange": [
+      10,
+      17
+    ],
+    "humidityRange": [
+      58,
+      85
+    ],
+    "soil": "silty",
+    "season": "winter"
+  },
+  {
+    "crop": "Cotton",
+    "tempRange": [
+      16,
+      29
+    ],
+    "humidityRange": [
+      31,
+      46
+    ],
+    "soil": "sandy",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Soybean",
+    "tempRange": [
+      20,
+      33
+    ],
+    "humidityRange": [
+      48,
+      73
+    ],
+    "soil": "clay",
+    "season": "winter"
+  },
+  {
+    "crop": "Sunflower",
+    "tempRange": [
+      11,
+      20
+    ],
+    "humidityRange": [
+      50,
+      67
+    ],
+    "soil": "sandy",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Groundnut",
+    "tempRange": [
+      18,
+      33
+    ],
+    "humidityRange": [
+      50,
+      66
+    ],
+    "soil": "loamy",
+    "season": "winter"
+  },
+  {
+    "crop": "Mustard",
+    "tempRange": [
+      24,
+      35
+    ],
+    "humidityRange": [
+      56,
+      72
+    ],
+    "soil": "silty",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Jute",
+    "tempRange": [
+      16,
+      27
+    ],
+    "humidityRange": [
+      56,
+      74
+    ],
+    "soil": "clay",
+    "season": "summer"
+  },
+  {
+    "crop": "Sorghum",
+    "tempRange": [
+      22,
+      29
+    ],
+    "humidityRange": [
+      33,
+      54
+    ],
+    "soil": "clay",
+    "season": "summer"
+  },
+  {
+    "crop": "Sunflower",
+    "tempRange": [
+      25,
+      40
+    ],
+    "humidityRange": [
+      44,
+      71
+    ],
+    "soil": "clay",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Groundnut",
+    "tempRange": [
+      16,
+      22
+    ],
+    "humidityRange": [
+      58,
+      81
+    ],
+    "soil": "sandy",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Wheat",
+    "tempRange": [
+      11,
+      22
+    ],
+    "humidityRange": [
+      42,
+      67
+    ],
+    "soil": "clay",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Sugarcane",
+    "tempRange": [
+      14,
+      25
+    ],
+    "humidityRange": [
+      48,
+      75
+    ],
+    "soil": "loamy",
+    "season": "winter"
+  },
+  {
+    "crop": "Gram",
+    "tempRange": [
+      21,
+      26
+    ],
+    "humidityRange": [
+      44,
+      70
+    ],
+    "soil": "clay",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Rice",
+    "tempRange": [
+      10,
+      21
+    ],
+    "humidityRange": [
+      59,
+      75
+    ],
+    "soil": "loamy",
+    "season": "winter"
+  },
+  {
+    "crop": "Sunflower",
+    "tempRange": [
+      11,
+      16
+    ],
+    "humidityRange": [
+      42,
+      69
+    ],
+    "soil": "silty",
+    "season": "winter"
+  },
+  {
+    "crop": "Sunflower",
+    "tempRange": [
+      21,
+      34
+    ],
+    "humidityRange": [
+      56,
+      72
+    ],
+    "soil": "clay",
+    "season": "winter"
+  },
+  {
+    "crop": "Sorghum",
+    "tempRange": [
+      23,
+      36
+    ],
+    "humidityRange": [
+      30,
+      41
+    ],
+    "soil": "sandy",
+    "season": "winter"
+  },
+  {
+    "crop": "Pulses",
+    "tempRange": [
+      23,
+      30
+    ],
+    "humidityRange": [
+      59,
+      72
+    ],
+    "soil": "clay",
+    "season": "summer"
+  },
+  {
+    "crop": "Sugarcane",
+    "tempRange": [
+      14,
+      25
+    ],
+    "humidityRange": [
+      44,
+      56
+    ],
+    "soil": "silty",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Cotton",
+    "tempRange": [
+      25,
+      30
+    ],
+    "humidityRange": [
+      33,
+      58
+    ],
+    "soil": "clay",
+    "season": "winter"
+  },
+  {
+    "crop": "Cotton",
+    "tempRange": [
+      16,
+      25
+    ],
+    "humidityRange": [
+      49,
+      63
+    ],
+    "soil": "sandy",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Maize",
+    "tempRange": [
+      15,
+      26
+    ],
+    "humidityRange": [
+      53,
+      69
+    ],
+    "soil": "clay",
+    "season": "winter"
+  },
+  {
+    "crop": "Sunflower",
+    "tempRange": [
+      20,
+      27
+    ],
+    "humidityRange": [
+      45,
+      64
+    ],
+    "soil": "clay",
+    "season": "summer"
+  },
+  {
+    "crop": "Tea",
+    "tempRange": [
+      17,
+      30
+    ],
+    "humidityRange": [
+      35,
+      60
+    ],
+    "soil": "sandy",
+    "season": "summer"
+  },
+  {
+    "crop": "Rice",
+    "tempRange": [
+      14,
+      20
+    ],
+    "humidityRange": [
+      49,
+      79
+    ],
+    "soil": "loamy",
+    "season": "winter"
+  },
+  {
+    "crop": "Gram",
+    "tempRange": [
+      16,
+      25
+    ],
+    "humidityRange": [
+      45,
+      55
+    ],
+    "soil": "clay",
+    "season": "summer"
+  },
+  {
+    "crop": "Rice",
+    "tempRange": [
+      15,
+      25
+    ],
+    "humidityRange": [
+      52,
+      74
+    ],
+    "soil": "loamy",
+    "season": "winter"
+  },
+  {
+    "crop": "Tobacco",
+    "tempRange": [
+      11,
+      24
+    ],
+    "humidityRange": [
+      53,
+      69
+    ],
+    "soil": "silty",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Barley",
+    "tempRange": [
+      23,
+      29
+    ],
+    "humidityRange": [
+      37,
+      48
+    ],
+    "soil": "clay",
+    "season": "winter"
+  },
+  {
+    "crop": "Maize",
+    "tempRange": [
+      22,
+      28
+    ],
+    "humidityRange": [
+      52,
+      76
+    ],
+    "soil": "sandy",
+    "season": "winter"
+  },
+  {
+    "crop": "Pea",
+    "tempRange": [
+      24,
+      31
+    ],
+    "humidityRange": [
+      50,
+      67
+    ],
+    "soil": "loamy",
+    "season": "winter"
+  },
+  {
+    "crop": "Wheat",
+    "tempRange": [
+      21,
+      33
+    ],
+    "humidityRange": [
+      32,
+      51
+    ],
+    "soil": "clay",
+    "season": "winter"
+  },
+  {
+    "crop": "Coffee",
+    "tempRange": [
+      21,
+      28
+    ],
+    "humidityRange": [
+      42,
+      69
+    ],
+    "soil": "sandy",
+    "season": "summer"
+  },
+  {
+    "crop": "Jute",
+    "tempRange": [
+      23,
+      32
+    ],
+    "humidityRange": [
+      54,
+      83
+    ],
+    "soil": "sandy",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Groundnut",
+    "tempRange": [
+      18,
+      32
+    ],
+    "humidityRange": [
+      60,
+      74
+    ],
+    "soil": "sandy",
+    "season": "summer"
+  },
+  {
+    "crop": "Mustard",
+    "tempRange": [
+      10,
+      23
+    ],
+    "humidityRange": [
+      36,
+      66
+    ],
+    "soil": "silty",
+    "season": "winter"
+  },
+  {
+    "crop": "Groundnut",
+    "tempRange": [
+      22,
+      30
+    ],
+    "humidityRange": [
+      48,
+      61
+    ],
+    "soil": "sandy",
+    "season": "summer"
+  },
+  {
+    "crop": "Maize",
+    "tempRange": [
+      15,
+      25
+    ],
+    "humidityRange": [
+      43,
+      58
+    ],
+    "soil": "clay",
+    "season": "winter"
+  },
+  {
+    "crop": "Tobacco",
+    "tempRange": [
+      13,
+      20
+    ],
+    "humidityRange": [
+      31,
+      55
+    ],
+    "soil": "loamy",
+    "season": "winter"
+  },
+  {
+    "crop": "Soybean",
+    "tempRange": [
+      19,
+      25
+    ],
+    "humidityRange": [
+      50,
+      64
+    ],
+    "soil": "loamy",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Rice",
+    "tempRange": [
+      19,
+      32
+    ],
+    "humidityRange": [
+      55,
+      78
+    ],
+    "soil": "sandy",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Maize",
+    "tempRange": [
+      25,
+      39
+    ],
+    "humidityRange": [
+      46,
+      70
+    ],
+    "soil": "clay",
+    "season": "summer"
+  },
+  {
+    "crop": "Jute",
+    "tempRange": [
+      15,
+      29
+    ],
+    "humidityRange": [
+      36,
+      56
+    ],
+    "soil": "clay",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Sugarcane",
+    "tempRange": [
+      22,
+      31
+    ],
+    "humidityRange": [
+      37,
+      51
+    ],
+    "soil": "silty",
+    "season": "summer"
+  },
+  {
+    "crop": "Rice",
+    "tempRange": [
+      17,
+      23
+    ],
+    "humidityRange": [
+      38,
+      53
+    ],
+    "soil": "sandy",
+    "season": "summer"
+  },
+  {
+    "crop": "Maize",
+    "tempRange": [
+      19,
+      33
+    ],
+    "humidityRange": [
+      38,
+      52
+    ],
+    "soil": "silty",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Maize",
+    "tempRange": [
+      16,
+      22
+    ],
+    "humidityRange": [
+      41,
+      68
+    ],
+    "soil": "clay",
+    "season": "summer"
+  },
+  {
+    "crop": "Lentil",
+    "tempRange": [
+      18,
+      32
+    ],
+    "humidityRange": [
+      53,
+      80
+    ],
+    "soil": "silty",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Sunflower",
+    "tempRange": [
+      12,
+      21
+    ],
+    "humidityRange": [
+      52,
+      63
+    ],
+    "soil": "clay",
+    "season": "summer"
+  },
+  {
+    "crop": "Sorghum",
+    "tempRange": [
+      17,
+      24
+    ],
+    "humidityRange": [
+      42,
+      59
+    ],
+    "soil": "loamy",
+    "season": "summer"
+  },
+  {
+    "crop": "Millet",
+    "tempRange": [
+      10,
+      18
+    ],
+    "humidityRange": [
+      50,
+      78
+    ],
+    "soil": "silty",
+    "season": "summer"
+  },
+  {
+    "crop": "Pulses",
+    "tempRange": [
+      20,
+      27
+    ],
+    "humidityRange": [
+      59,
+      74
+    ],
+    "soil": "loamy",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Pea",
+    "tempRange": [
+      16,
+      30
+    ],
+    "humidityRange": [
+      56,
+      86
+    ],
+    "soil": "silty",
+    "season": "summer"
+  },
+  {
+    "crop": "Gram",
+    "tempRange": [
+      10,
+      20
+    ],
+    "humidityRange": [
+      40,
+      57
+    ],
+    "soil": "sandy",
+    "season": "summer"
+  },
+  {
+    "crop": "Soybean",
+    "tempRange": [
+      19,
+      25
+    ],
+    "humidityRange": [
+      60,
+      70
+    ],
+    "soil": "clay",
+    "season": "summer"
+  },
+  {
+    "crop": "Wheat",
+    "tempRange": [
+      15,
+      26
+    ],
+    "humidityRange": [
+      52,
+      75
+    ],
+    "soil": "silty",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Rice",
+    "tempRange": [
+      18,
+      33
+    ],
+    "humidityRange": [
+      39,
+      64
+    ],
+    "soil": "silty",
+    "season": "winter"
+  },
+  {
+    "crop": "Maize",
+    "tempRange": [
+      19,
+      29
+    ],
+    "humidityRange": [
+      48,
+      68
+    ],
+    "soil": "silty",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Groundnut",
+    "tempRange": [
+      16,
+      22
+    ],
+    "humidityRange": [
+      43,
+      63
+    ],
+    "soil": "silty",
+    "season": "summer"
+  },
+  {
+    "crop": "Jute",
+    "tempRange": [
+      13,
+      25
+    ],
+    "humidityRange": [
+      40,
+      53
+    ],
+    "soil": "loamy",
+    "season": "winter"
+  },
+  {
+    "crop": "Pea",
+    "tempRange": [
+      12,
+      26
+    ],
+    "humidityRange": [
+      38,
+      56
+    ],
+    "soil": "silty",
+    "season": "summer"
+  },
+  {
+    "crop": "Soybean",
+    "tempRange": [
+      22,
+      32
+    ],
+    "humidityRange": [
+      50,
+      74
+    ],
+    "soil": "silty",
+    "season": "summer"
+  },
+  {
+    "crop": "Pea",
+    "tempRange": [
+      24,
+      35
+    ],
+    "humidityRange": [
+      57,
+      69
+    ],
+    "soil": "clay",
+    "season": "winter"
+  },
+  {
+    "crop": "Pea",
+    "tempRange": [
+      22,
+      31
+    ],
+    "humidityRange": [
+      60,
+      87
+    ],
+    "soil": "loamy",
+    "season": "summer"
+  },
+  {
+    "crop": "Coffee",
+    "tempRange": [
+      21,
+      36
+    ],
+    "humidityRange": [
+      53,
+      63
+    ],
+    "soil": "loamy",
+    "season": "summer"
+  },
+  {
+    "crop": "Barley",
+    "tempRange": [
+      10,
+      24
+    ],
+    "humidityRange": [
+      32,
+      55
+    ],
+    "soil": "sandy",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Tea",
+    "tempRange": [
+      12,
+      21
+    ],
+    "humidityRange": [
+      37,
+      60
+    ],
+    "soil": "silty",
+    "season": "summer"
+  },
+  {
+    "crop": "Wheat",
+    "tempRange": [
+      14,
+      27
+    ],
+    "humidityRange": [
+      44,
+      74
+    ],
+    "soil": "clay",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Coffee",
+    "tempRange": [
+      14,
+      22
+    ],
+    "humidityRange": [
+      51,
+      69
+    ],
+    "soil": "sandy",
+    "season": "winter"
+  },
+  {
+    "crop": "Jute",
+    "tempRange": [
+      16,
+      24
+    ],
+    "humidityRange": [
+      51,
+      64
+    ],
+    "soil": "sandy",
+    "season": "summer"
+  },
+  {
+    "crop": "Maize",
+    "tempRange": [
+      13,
+      27
+    ],
+    "humidityRange": [
+      52,
+      75
+    ],
+    "soil": "sandy",
+    "season": "summer"
+  },
+  {
+    "crop": "Cotton",
+    "tempRange": [
+      19,
+      29
+    ],
+    "humidityRange": [
+      35,
+      50
+    ],
+    "soil": "silty",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Groundnut",
+    "tempRange": [
+      17,
+      29
+    ],
+    "humidityRange": [
+      47,
+      68
+    ],
+    "soil": "clay",
+    "season": "winter"
+  },
+  {
+    "crop": "Coffee",
+    "tempRange": [
+      13,
+      26
+    ],
+    "humidityRange": [
+      34,
+      57
+    ],
+    "soil": "loamy",
+    "season": "summer"
+  },
+  {
+    "crop": "Groundnut",
+    "tempRange": [
+      18,
+      33
+    ],
+    "humidityRange": [
+      51,
+      64
+    ],
+    "soil": "silty",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Tea",
+    "tempRange": [
+      14,
+      22
+    ],
+    "humidityRange": [
+      38,
+      57
+    ],
+    "soil": "silty",
+    "season": "winter"
+  },
+  {
+    "crop": "Pulses",
+    "tempRange": [
+      19,
+      27
+    ],
+    "humidityRange": [
+      45,
+      61
+    ],
+    "soil": "silty",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Groundnut",
+    "tempRange": [
+      10,
+      25
+    ],
+    "humidityRange": [
+      48,
+      59
+    ],
+    "soil": "clay",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Sunflower",
+    "tempRange": [
+      10,
+      16
+    ],
+    "humidityRange": [
+      33,
+      51
+    ],
+    "soil": "clay",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Pea",
+    "tempRange": [
+      20,
+      28
+    ],
+    "humidityRange": [
+      40,
+      57
+    ],
+    "soil": "silty",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Maize",
+    "tempRange": [
+      15,
+      28
+    ],
+    "humidityRange": [
+      45,
+      74
+    ],
+    "soil": "sandy",
+    "season": "winter"
+  },
+  {
+    "crop": "Gram",
+    "tempRange": [
+      25,
+      34
+    ],
+    "humidityRange": [
+      33,
+      57
+    ],
+    "soil": "clay",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Soybean",
+    "tempRange": [
+      21,
+      32
+    ],
+    "humidityRange": [
+      49,
+      76
+    ],
+    "soil": "clay",
+    "season": "summer"
+  },
+  {
+    "crop": "Mustard",
+    "tempRange": [
+      11,
+      20
+    ],
+    "humidityRange": [
+      49,
+      59
+    ],
+    "soil": "silty",
+    "season": "winter"
+  },
+  {
+    "crop": "Wheat",
+    "tempRange": [
+      23,
+      37
+    ],
+    "humidityRange": [
+      47,
+      74
+    ],
+    "soil": "clay",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Sorghum",
+    "tempRange": [
+      20,
+      30
+    ],
+    "humidityRange": [
+      31,
+      42
+    ],
+    "soil": "loamy",
+    "season": "winter"
+  },
+  {
+    "crop": "Pulses",
+    "tempRange": [
+      18,
+      27
+    ],
+    "humidityRange": [
+      52,
+      63
+    ],
+    "soil": "loamy",
+    "season": "summer"
+  },
+  {
+    "crop": "Rice",
+    "tempRange": [
+      10,
+      23
+    ],
+    "humidityRange": [
+      41,
+      57
+    ],
+    "soil": "silty",
+    "season": "winter"
+  },
+  {
+    "crop": "Tea",
+    "tempRange": [
+      19,
+      29
+    ],
+    "humidityRange": [
+      45,
+      74
+    ],
+    "soil": "loamy",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Sunflower",
+    "tempRange": [
+      17,
+      29
+    ],
+    "humidityRange": [
+      35,
+      51
+    ],
+    "soil": "silty",
+    "season": "summer"
+  },
+  {
+    "crop": "Lentil",
+    "tempRange": [
+      12,
+      19
+    ],
+    "humidityRange": [
+      39,
+      59
+    ],
+    "soil": "sandy",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Groundnut",
+    "tempRange": [
+      16,
+      31
+    ],
+    "humidityRange": [
+      33,
+      43
+    ],
+    "soil": "silty",
+    "season": "summer"
+  },
+  {
+    "crop": "Maize",
+    "tempRange": [
+      11,
+      19
+    ],
+    "humidityRange": [
+      32,
+      59
+    ],
+    "soil": "silty",
+    "season": "winter"
+  },
+  {
+    "crop": "Lentil",
+    "tempRange": [
+      20,
+      25
+    ],
+    "humidityRange": [
+      38,
+      52
+    ],
+    "soil": "loamy",
+    "season": "winter"
+  },
+  {
+    "crop": "Lentil",
+    "tempRange": [
+      18,
+      27
+    ],
+    "humidityRange": [
+      35,
+      65
+    ],
+    "soil": "loamy",
+    "season": "winter"
+  },
+  {
+    "crop": "Tobacco",
+    "tempRange": [
+      24,
+      29
+    ],
+    "humidityRange": [
+      48,
+      58
+    ],
+    "soil": "sandy",
+    "season": "winter"
+  },
+  {
+    "crop": "Sugarcane",
+    "tempRange": [
+      11,
+      17
+    ],
+    "humidityRange": [
+      51,
+      79
+    ],
+    "soil": "silty",
+    "season": "winter"
+  },
+  {
+    "crop": "Jute",
+    "tempRange": [
+      11,
+      18
+    ],
+    "humidityRange": [
+      30,
+      43
+    ],
+    "soil": "silty",
+    "season": "summer"
+  },
+  {
+    "crop": "Wheat",
+    "tempRange": [
+      23,
+      33
+    ],
+    "humidityRange": [
+      55,
+      85
+    ],
+    "soil": "clay",
+    "season": "winter"
+  },
+  {
+    "crop": "Lentil",
+    "tempRange": [
+      17,
+      23
+    ],
+    "humidityRange": [
+      36,
+      66
+    ],
+    "soil": "clay",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Tobacco",
+    "tempRange": [
+      23,
+      30
+    ],
+    "humidityRange": [
+      47,
+      70
+    ],
+    "soil": "silty",
+    "season": "winter"
+  },
+  {
+    "crop": "Pea",
+    "tempRange": [
+      15,
+      20
+    ],
+    "humidityRange": [
+      33,
+      48
+    ],
+    "soil": "clay",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Cotton",
+    "tempRange": [
+      17,
+      26
+    ],
+    "humidityRange": [
+      32,
+      50
+    ],
+    "soil": "loamy",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Gram",
+    "tempRange": [
+      21,
+      28
+    ],
+    "humidityRange": [
+      58,
+      81
+    ],
+    "soil": "loamy",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Jute",
+    "tempRange": [
+      15,
+      22
+    ],
+    "humidityRange": [
+      41,
+      64
+    ],
+    "soil": "sandy",
+    "season": "summer"
+  },
+  {
+    "crop": "Millet",
+    "tempRange": [
+      21,
+      36
+    ],
+    "humidityRange": [
+      51,
+      68
+    ],
+    "soil": "sandy",
+    "season": "winter"
+  },
+  {
+    "crop": "Wheat",
+    "tempRange": [
+      14,
+      29
+    ],
+    "humidityRange": [
+      42,
+      69
+    ],
+    "soil": "sandy",
+    "season": "summer"
+  },
+  {
+    "crop": "Gram",
+    "tempRange": [
+      14,
+      28
+    ],
+    "humidityRange": [
+      35,
+      59
+    ],
+    "soil": "sandy",
+    "season": "winter"
+  },
+  {
+    "crop": "Wheat",
+    "tempRange": [
+      17,
+      27
+    ],
+    "humidityRange": [
+      40,
+      61
+    ],
+    "soil": "clay",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Pulses",
+    "tempRange": [
+      11,
+      23
+    ],
+    "humidityRange": [
+      44,
+      60
+    ],
+    "soil": "clay",
+    "season": "summer"
+  },
+  {
+    "crop": "Tobacco",
+    "tempRange": [
+      16,
+      27
+    ],
+    "humidityRange": [
+      35,
+      53
+    ],
+    "soil": "clay",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Soybean",
+    "tempRange": [
+      18,
+      24
+    ],
+    "humidityRange": [
+      32,
+      54
+    ],
+    "soil": "loamy",
+    "season": "winter"
+  },
+  {
+    "crop": "Pulses",
+    "tempRange": [
+      17,
+      23
+    ],
+    "humidityRange": [
+      51,
+      80
+    ],
+    "soil": "clay",
+    "season": "summer"
+  },
+  {
+    "crop": "Maize",
+    "tempRange": [
+      17,
+      25
+    ],
+    "humidityRange": [
+      34,
+      55
+    ],
+    "soil": "loamy",
+    "season": "summer"
+  },
+  {
+    "crop": "Millet",
+    "tempRange": [
+      11,
+      23
+    ],
+    "humidityRange": [
+      31,
+      41
+    ],
+    "soil": "silty",
+    "season": "winter"
+  },
+  {
+    "crop": "Sorghum",
+    "tempRange": [
+      18,
+      30
+    ],
+    "humidityRange": [
+      59,
+      72
+    ],
+    "soil": "clay",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Coffee",
+    "tempRange": [
+      19,
+      24
+    ],
+    "humidityRange": [
+      56,
+      70
+    ],
+    "soil": "sandy",
+    "season": "summer"
+  },
+  {
+    "crop": "Cotton",
+    "tempRange": [
+      20,
+      29
+    ],
+    "humidityRange": [
+      57,
+      67
+    ],
+    "soil": "loamy",
+    "season": "summer"
+  },
+  {
+    "crop": "Millet",
+    "tempRange": [
+      24,
+      34
+    ],
+    "humidityRange": [
+      45,
+      73
+    ],
+    "soil": "clay",
+    "season": "winter"
+  },
+  {
+    "crop": "Mustard",
+    "tempRange": [
+      11,
+      18
+    ],
+    "humidityRange": [
+      54,
+      68
+    ],
+    "soil": "sandy",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Jute",
+    "tempRange": [
+      16,
+      28
+    ],
+    "humidityRange": [
+      42,
+      69
+    ],
+    "soil": "loamy",
+    "season": "summer"
+  },
+  {
+    "crop": "Sunflower",
+    "tempRange": [
+      13,
+      27
+    ],
+    "humidityRange": [
+      50,
+      76
+    ],
+    "soil": "sandy",
+    "season": "summer"
+  },
+  {
+    "crop": "Tea",
+    "tempRange": [
+      13,
+      21
+    ],
+    "humidityRange": [
+      42,
+      53
+    ],
+    "soil": "silty",
+    "season": "winter"
+  },
+  {
+    "crop": "Tea",
+    "tempRange": [
+      19,
+      29
+    ],
+    "humidityRange": [
+      53,
+      83
+    ],
+    "soil": "sandy",
+    "season": "summer"
+  },
+  {
+    "crop": "Tea",
+    "tempRange": [
+      23,
+      29
+    ],
+    "humidityRange": [
+      30,
+      43
+    ],
+    "soil": "loamy",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Mustard",
+    "tempRange": [
+      18,
+      29
+    ],
+    "humidityRange": [
+      42,
+      72
+    ],
+    "soil": "sandy",
+    "season": "winter"
+  },
+  {
+    "crop": "Barley",
+    "tempRange": [
+      25,
+      30
+    ],
+    "humidityRange": [
+      39,
+      53
+    ],
+    "soil": "silty",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Millet",
+    "tempRange": [
+      20,
+      35
+    ],
+    "humidityRange": [
+      30,
+      51
+    ],
+    "soil": "clay",
+    "season": "winter"
+  },
+  {
+    "crop": "Soybean",
+    "tempRange": [
+      18,
+      30
+    ],
+    "humidityRange": [
+      46,
+      62
+    ],
+    "soil": "clay",
+    "season": "winter"
+  },
+  {
+    "crop": "Lentil",
+    "tempRange": [
+      22,
+      29
+    ],
+    "humidityRange": [
+      40,
+      68
+    ],
+    "soil": "silty",
+    "season": "winter"
+  },
+  {
+    "crop": "Sunflower",
+    "tempRange": [
+      14,
+      25
+    ],
+    "humidityRange": [
+      52,
+      69
+    ],
+    "soil": "silty",
+    "season": "summer"
+  },
+  {
+    "crop": "Millet",
+    "tempRange": [
+      23,
+      32
+    ],
+    "humidityRange": [
+      32,
+      44
+    ],
+    "soil": "clay",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Coffee",
+    "tempRange": [
+      20,
+      34
+    ],
+    "humidityRange": [
+      58,
+      74
+    ],
+    "soil": "sandy",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Maize",
+    "tempRange": [
+      19,
+      31
+    ],
+    "humidityRange": [
+      48,
+      58
+    ],
+    "soil": "sandy",
+    "season": "winter"
+  },
+  {
+    "crop": "Tea",
+    "tempRange": [
+      15,
+      30
+    ],
+    "humidityRange": [
+      56,
+      86
+    ],
+    "soil": "sandy",
+    "season": "winter"
+  },
+  {
+    "crop": "Groundnut",
+    "tempRange": [
+      18,
+      30
+    ],
+    "humidityRange": [
+      53,
+      64
+    ],
+    "soil": "loamy",
+    "season": "summer"
+  },
+  {
+    "crop": "Mustard",
+    "tempRange": [
+      23,
+      35
+    ],
+    "humidityRange": [
+      58,
+      88
+    ],
+    "soil": "sandy",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Millet",
+    "tempRange": [
+      15,
+      23
+    ],
+    "humidityRange": [
+      49,
+      76
+    ],
+    "soil": "loamy",
+    "season": "summer"
+  },
+  {
+    "crop": "Mustard",
+    "tempRange": [
+      14,
+      25
+    ],
+    "humidityRange": [
+      43,
+      63
+    ],
+    "soil": "sandy",
+    "season": "winter"
+  },
+  {
+    "crop": "Coffee",
+    "tempRange": [
+      25,
+      38
+    ],
+    "humidityRange": [
+      52,
+      67
+    ],
+    "soil": "clay",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Millet",
+    "tempRange": [
+      21,
+      34
+    ],
+    "humidityRange": [
+      41,
+      52
+    ],
+    "soil": "silty",
+    "season": "winter"
+  },
+  {
+    "crop": "Pea",
+    "tempRange": [
+      24,
+      30
+    ],
+    "humidityRange": [
+      33,
+      56
+    ],
+    "soil": "silty",
+    "season": "summer"
+  },
+  {
+    "crop": "Soybean",
+    "tempRange": [
+      23,
+      33
+    ],
+    "humidityRange": [
+      37,
+      57
+    ],
+    "soil": "loamy",
+    "season": "winter"
+  },
+  {
+    "crop": "Pulses",
+    "tempRange": [
+      19,
+      29
+    ],
+    "humidityRange": [
+      54,
+      64
+    ],
+    "soil": "loamy",
+    "season": "winter"
+  },
+  {
+    "crop": "Tobacco",
+    "tempRange": [
+      23,
+      31
+    ],
+    "humidityRange": [
+      36,
+      54
+    ],
+    "soil": "sandy",
+    "season": "winter"
+  },
+  {
+    "crop": "Sorghum",
+    "tempRange": [
+      22,
+      36
+    ],
+    "humidityRange": [
+      51,
+      70
+    ],
+    "soil": "silty",
+    "season": "summer"
+  },
+  {
+    "crop": "Coffee",
+    "tempRange": [
+      21,
+      26
+    ],
+    "humidityRange": [
+      43,
+      70
+    ],
+    "soil": "sandy",
+    "season": "winter"
+  },
+  {
+    "crop": "Jute",
+    "tempRange": [
+      19,
+      32
+    ],
+    "humidityRange": [
+      50,
+      75
+    ],
+    "soil": "silty",
+    "season": "summer"
+  },
+  {
+    "crop": "Millet",
+    "tempRange": [
+      20,
+      34
+    ],
+    "humidityRange": [
+      53,
+      70
+    ],
+    "soil": "sandy",
+    "season": "winter"
+  },
+  {
+    "crop": "Mustard",
+    "tempRange": [
+      16,
+      22
+    ],
+    "humidityRange": [
+      39,
+      63
+    ],
+    "soil": "loamy",
+    "season": "summer"
+  },
+  {
+    "crop": "Cotton",
+    "tempRange": [
+      10,
+      22
+    ],
+    "humidityRange": [
+      44,
+      68
+    ],
+    "soil": "silty",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Mustard",
+    "tempRange": [
+      16,
+      23
+    ],
+    "humidityRange": [
+      48,
+      58
+    ],
+    "soil": "silty",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Sorghum",
+    "tempRange": [
+      23,
+      32
+    ],
+    "humidityRange": [
+      39,
+      50
+    ],
+    "soil": "silty",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Gram",
+    "tempRange": [
+      14,
+      26
+    ],
+    "humidityRange": [
+      44,
+      62
+    ],
+    "soil": "clay",
+    "season": "winter"
+  },
+  {
+    "crop": "Wheat",
+    "tempRange": [
+      14,
+      24
+    ],
+    "humidityRange": [
+      60,
+      80
+    ],
+    "soil": "loamy",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Maize",
+    "tempRange": [
+      21,
+      28
+    ],
+    "humidityRange": [
+      54,
+      81
+    ],
+    "soil": "silty",
+    "season": "summer"
+  },
+  {
+    "crop": "Soybean",
+    "tempRange": [
+      11,
+      20
+    ],
+    "humidityRange": [
+      44,
+      71
+    ],
+    "soil": "silty",
+    "season": "summer"
+  },
+  {
+    "crop": "Mustard",
+    "tempRange": [
+      15,
+      27
+    ],
+    "humidityRange": [
+      55,
+      85
+    ],
+    "soil": "sandy",
+    "season": "summer"
+  },
+  {
+    "crop": "Millet",
+    "tempRange": [
+      19,
+      30
+    ],
+    "humidityRange": [
+      52,
+      78
+    ],
+    "soil": "silty",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Groundnut",
+    "tempRange": [
+      22,
+      34
+    ],
+    "humidityRange": [
+      35,
+      53
+    ],
+    "soil": "clay",
+    "season": "winter"
+  },
+  {
+    "crop": "Mustard",
+    "tempRange": [
+      11,
+      17
+    ],
+    "humidityRange": [
+      54,
+      82
+    ],
+    "soil": "sandy",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Groundnut",
+    "tempRange": [
+      11,
+      26
+    ],
+    "humidityRange": [
+      55,
+      73
+    ],
+    "soil": "loamy",
+    "season": "winter"
+  },
+  {
+    "crop": "Pulses",
+    "tempRange": [
+      11,
+      24
+    ],
+    "humidityRange": [
+      57,
+      80
+    ],
+    "soil": "clay",
+    "season": "summer"
+  },
+  {
+    "crop": "Sorghum",
+    "tempRange": [
+      23,
+      33
+    ],
+    "humidityRange": [
+      35,
+      59
+    ],
+    "soil": "silty",
+    "season": "winter"
+  },
+  {
+    "crop": "Rice",
+    "tempRange": [
+      10,
+      18
+    ],
+    "humidityRange": [
+      34,
+      60
+    ],
+    "soil": "silty",
+    "season": "winter"
+  },
+  {
+    "crop": "Coffee",
+    "tempRange": [
+      14,
+      20
+    ],
+    "humidityRange": [
+      56,
+      81
+    ],
+    "soil": "clay",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Pea",
+    "tempRange": [
+      25,
+      33
+    ],
+    "humidityRange": [
+      55,
+      68
+    ],
+    "soil": "silty",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Sunflower",
+    "tempRange": [
+      13,
+      21
+    ],
+    "humidityRange": [
+      49,
+      76
+    ],
+    "soil": "loamy",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Sorghum",
+    "tempRange": [
+      10,
+      15
+    ],
+    "humidityRange": [
+      48,
+      68
+    ],
+    "soil": "sandy",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Pulses",
+    "tempRange": [
+      21,
+      31
+    ],
+    "humidityRange": [
+      39,
+      54
+    ],
+    "soil": "silty",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Pulses",
+    "tempRange": [
+      19,
+      31
+    ],
+    "humidityRange": [
+      56,
+      68
+    ],
+    "soil": "sandy",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Millet",
+    "tempRange": [
+      20,
+      35
+    ],
+    "humidityRange": [
+      38,
+      49
+    ],
+    "soil": "silty",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Pulses",
+    "tempRange": [
+      20,
+      33
+    ],
+    "humidityRange": [
+      54,
+      76
+    ],
+    "soil": "sandy",
+    "season": "summer"
+  },
+  {
+    "crop": "Pea",
+    "tempRange": [
+      16,
+      22
+    ],
+    "humidityRange": [
+      37,
+      64
+    ],
+    "soil": "sandy",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Barley",
+    "tempRange": [
+      24,
+      35
+    ],
+    "humidityRange": [
+      60,
+      78
+    ],
+    "soil": "clay",
+    "season": "winter"
+  },
+  {
+    "crop": "Wheat",
+    "tempRange": [
+      20,
+      30
+    ],
+    "humidityRange": [
+      31,
+      58
+    ],
+    "soil": "loamy",
+    "season": "summer"
+  },
+  {
+    "crop": "Sugarcane",
+    "tempRange": [
+      23,
+      34
+    ],
+    "humidityRange": [
+      42,
+      63
+    ],
+    "soil": "loamy",
+    "season": "winter"
+  },
+  {
+    "crop": "Tea",
+    "tempRange": [
+      17,
+      28
+    ],
+    "humidityRange": [
+      30,
+      47
+    ],
+    "soil": "loamy",
+    "season": "summer"
+  },
+  {
+    "crop": "Maize",
+    "tempRange": [
+      25,
+      30
+    ],
+    "humidityRange": [
+      52,
+      76
+    ],
+    "soil": "loamy",
+    "season": "summer"
+  },
+  {
+    "crop": "Pea",
+    "tempRange": [
+      24,
+      37
+    ],
+    "humidityRange": [
+      32,
+      60
+    ],
+    "soil": "loamy",
+    "season": "summer"
+  },
+  {
+    "crop": "Gram",
+    "tempRange": [
+      25,
+      37
+    ],
+    "humidityRange": [
+      45,
+      73
+    ],
+    "soil": "silty",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Jute",
+    "tempRange": [
+      21,
+      32
+    ],
+    "humidityRange": [
+      40,
+      61
+    ],
+    "soil": "loamy",
+    "season": "summer"
+  },
+  {
+    "crop": "Millet",
+    "tempRange": [
+      10,
+      20
+    ],
+    "humidityRange": [
+      31,
+      61
+    ],
+    "soil": "loamy",
+    "season": "winter"
+  },
+  {
+    "crop": "Sugarcane",
+    "tempRange": [
+      15,
+      22
+    ],
+    "humidityRange": [
+      34,
+      62
+    ],
+    "soil": "clay",
+    "season": "summer"
+  },
+  {
+    "crop": "Pulses",
+    "tempRange": [
+      24,
+      29
+    ],
+    "humidityRange": [
+      44,
+      65
+    ],
+    "soil": "sandy",
+    "season": "summer"
+  },
+  {
+    "crop": "Wheat",
+    "tempRange": [
+      24,
+      34
+    ],
+    "humidityRange": [
+      59,
+      71
+    ],
+    "soil": "loamy",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Gram",
+    "tempRange": [
+      16,
+      22
+    ],
+    "humidityRange": [
+      49,
+      63
+    ],
+    "soil": "sandy",
+    "season": "summer"
+  },
+  {
+    "crop": "Pulses",
+    "tempRange": [
+      22,
+      28
+    ],
+    "humidityRange": [
+      42,
+      69
+    ],
+    "soil": "clay",
+    "season": "summer"
+  },
+  {
+    "crop": "Tea",
+    "tempRange": [
+      19,
+      28
+    ],
+    "humidityRange": [
+      34,
+      44
+    ],
+    "soil": "silty",
+    "season": "winter"
+  },
+  {
+    "crop": "Cotton",
+    "tempRange": [
+      21,
+      28
+    ],
+    "humidityRange": [
+      52,
+      69
+    ],
+    "soil": "sandy",
+    "season": "winter"
+  },
+  {
+    "crop": "Sorghum",
+    "tempRange": [
+      24,
+      35
+    ],
+    "humidityRange": [
+      31,
+      53
+    ],
+    "soil": "clay",
+    "season": "summer"
+  },
+  {
+    "crop": "Cotton",
+    "tempRange": [
+      25,
+      37
+    ],
+    "humidityRange": [
+      33,
+      56
+    ],
+    "soil": "clay",
+    "season": "winter"
+  },
+  {
+    "crop": "Barley",
+    "tempRange": [
+      12,
+      23
+    ],
+    "humidityRange": [
+      46,
+      60
+    ],
+    "soil": "loamy",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Pulses",
+    "tempRange": [
+      10,
+      16
+    ],
+    "humidityRange": [
+      37,
+      67
+    ],
+    "soil": "loamy",
+    "season": "summer"
+  },
+  {
+    "crop": "Gram",
+    "tempRange": [
+      11,
+      25
+    ],
+    "humidityRange": [
+      31,
+      55
+    ],
+    "soil": "sandy",
+    "season": "summer"
+  },
+  {
+    "crop": "Mustard",
+    "tempRange": [
+      18,
+      25
+    ],
+    "humidityRange": [
+      46,
+      70
+    ],
+    "soil": "clay",
+    "season": "summer"
+  },
+  {
+    "crop": "Pea",
+    "tempRange": [
+      11,
+      17
+    ],
+    "humidityRange": [
+      32,
+      51
+    ],
+    "soil": "sandy",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Pea",
+    "tempRange": [
+      13,
+      21
+    ],
+    "humidityRange": [
+      55,
+      82
+    ],
+    "soil": "silty",
+    "season": "winter"
+  },
+  {
+    "crop": "Sugarcane",
+    "tempRange": [
+      15,
+      25
+    ],
+    "humidityRange": [
+      56,
+      73
+    ],
+    "soil": "clay",
+    "season": "summer"
+  },
+  {
+    "crop": "Cotton",
+    "tempRange": [
+      24,
+      31
+    ],
+    "humidityRange": [
+      48,
+      76
+    ],
+    "soil": "loamy",
+    "season": "winter"
+  },
+  {
+    "crop": "Sorghum",
+    "tempRange": [
+      21,
+      35
+    ],
+    "humidityRange": [
+      46,
+      76
+    ],
+    "soil": "sandy",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Soybean",
+    "tempRange": [
+      18,
+      28
+    ],
+    "humidityRange": [
+      60,
+      72
+    ],
+    "soil": "loamy",
+    "season": "winter"
+  },
+  {
+    "crop": "Groundnut",
+    "tempRange": [
+      10,
+      22
+    ],
+    "humidityRange": [
+      35,
+      61
+    ],
+    "soil": "loamy",
+    "season": "winter"
+  },
+  {
+    "crop": "Wheat",
+    "tempRange": [
+      19,
+      28
+    ],
+    "humidityRange": [
+      37,
+      67
+    ],
+    "soil": "loamy",
+    "season": "winter"
+  },
+  {
+    "crop": "Barley",
+    "tempRange": [
+      14,
+      24
+    ],
+    "humidityRange": [
+      31,
+      55
+    ],
+    "soil": "clay",
+    "season": "summer"
+  },
+  {
+    "crop": "Sugarcane",
+    "tempRange": [
+      19,
+      30
+    ],
+    "humidityRange": [
+      40,
+      55
+    ],
+    "soil": "silty",
+    "season": "summer"
+  },
+  {
+    "crop": "Groundnut",
+    "tempRange": [
+      20,
+      34
+    ],
+    "humidityRange": [
+      57,
+      83
+    ],
+    "soil": "silty",
+    "season": "summer"
+  },
+  {
+    "crop": "Pulses",
+    "tempRange": [
+      16,
+      28
+    ],
+    "humidityRange": [
+      51,
+      75
+    ],
+    "soil": "silty",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Sorghum",
+    "tempRange": [
+      12,
+      22
+    ],
+    "humidityRange": [
+      52,
+      67
+    ],
+    "soil": "clay",
+    "season": "winter"
+  },
+  {
+    "crop": "Sunflower",
+    "tempRange": [
+      25,
+      37
+    ],
+    "humidityRange": [
+      44,
+      66
+    ],
+    "soil": "silty",
+    "season": "summer"
+  },
+  {
+    "crop": "Groundnut",
+    "tempRange": [
+      24,
+      35
+    ],
+    "humidityRange": [
+      59,
+      69
+    ],
+    "soil": "loamy",
+    "season": "summer"
+  },
+  {
+    "crop": "Gram",
+    "tempRange": [
+      12,
+      26
+    ],
+    "humidityRange": [
+      52,
+      78
+    ],
+    "soil": "sandy",
+    "season": "summer"
+  },
+  {
+    "crop": "Maize",
+    "tempRange": [
+      10,
+      20
+    ],
+    "humidityRange": [
+      35,
+      51
+    ],
+    "soil": "silty",
+    "season": "summer"
+  },
+  {
+    "crop": "Tea",
+    "tempRange": [
+      14,
+      19
+    ],
+    "humidityRange": [
+      50,
+      76
+    ],
+    "soil": "sandy",
+    "season": "summer"
+  },
+  {
+    "crop": "Pea",
+    "tempRange": [
+      14,
+      26
+    ],
+    "humidityRange": [
+      58,
+      85
+    ],
+    "soil": "silty",
+    "season": "summer"
+  },
+  {
+    "crop": "Lentil",
+    "tempRange": [
+      12,
+      25
+    ],
+    "humidityRange": [
+      55,
+      82
+    ],
+    "soil": "sandy",
+    "season": "winter"
+  },
+  {
+    "crop": "Wheat",
+    "tempRange": [
+      12,
+      18
+    ],
+    "humidityRange": [
+      37,
+      56
+    ],
+    "soil": "clay",
+    "season": "winter"
+  },
+  {
+    "crop": "Millet",
+    "tempRange": [
+      13,
+      20
+    ],
+    "humidityRange": [
+      54,
+      76
+    ],
+    "soil": "clay",
+    "season": "summer"
+  },
+  {
+    "crop": "Barley",
+    "tempRange": [
+      10,
+      25
+    ],
+    "humidityRange": [
+      55,
+      79
+    ],
+    "soil": "silty",
+    "season": "winter"
+  },
+  {
+    "crop": "Lentil",
+    "tempRange": [
+      18,
+      30
+    ],
+    "humidityRange": [
+      35,
+      63
+    ],
+    "soil": "clay",
+    "season": "winter"
+  },
+  {
+    "crop": "Rice",
+    "tempRange": [
+      20,
+      34
+    ],
+    "humidityRange": [
+      43,
+      66
+    ],
+    "soil": "clay",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Sunflower",
+    "tempRange": [
+      10,
+      24
+    ],
+    "humidityRange": [
+      48,
+      75
+    ],
+    "soil": "silty",
+    "season": "winter"
+  },
+  {
+    "crop": "Barley",
+    "tempRange": [
+      20,
+      34
+    ],
+    "humidityRange": [
+      48,
+      72
+    ],
+    "soil": "silty",
+    "season": "winter"
+  },
+  {
+    "crop": "Cotton",
+    "tempRange": [
+      17,
+      27
+    ],
+    "humidityRange": [
+      38,
+      61
+    ],
+    "soil": "sandy",
+    "season": "summer"
+  },
+  {
+    "crop": "Lentil",
+    "tempRange": [
+      25,
+      40
+    ],
+    "humidityRange": [
+      41,
+      63
+    ],
+    "soil": "loamy",
+    "season": "summer"
+  },
+  {
+    "crop": "Wheat",
+    "tempRange": [
+      10,
+      19
+    ],
+    "humidityRange": [
+      48,
+      69
+    ],
+    "soil": "silty",
+    "season": "winter"
+  },
+  {
+    "crop": "Cotton",
+    "tempRange": [
+      16,
+      25
+    ],
+    "humidityRange": [
+      49,
+      72
+    ],
+    "soil": "silty",
+    "season": "winter"
+  },
+  {
+    "crop": "Mustard",
+    "tempRange": [
+      15,
+      25
+    ],
+    "humidityRange": [
+      50,
+      67
+    ],
+    "soil": "silty",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Millet",
+    "tempRange": [
+      10,
+      25
+    ],
+    "humidityRange": [
+      50,
+      66
+    ],
+    "soil": "clay",
+    "season": "summer"
+  },
+  {
+    "crop": "Soybean",
+    "tempRange": [
+      12,
+      23
+    ],
+    "humidityRange": [
+      31,
+      49
+    ],
+    "soil": "loamy",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Mustard",
+    "tempRange": [
+      18,
+      26
+    ],
+    "humidityRange": [
+      51,
+      79
+    ],
+    "soil": "clay",
+    "season": "summer"
+  },
+  {
+    "crop": "Soybean",
+    "tempRange": [
+      10,
+      24
+    ],
+    "humidityRange": [
+      39,
+      69
+    ],
+    "soil": "loamy",
+    "season": "summer"
+  },
+  {
+    "crop": "Maize",
+    "tempRange": [
+      18,
+      32
+    ],
+    "humidityRange": [
+      50,
+      72
+    ],
+    "soil": "sandy",
+    "season": "summer"
+  },
+  {
+    "crop": "Barley",
+    "tempRange": [
+      17,
+      28
+    ],
+    "humidityRange": [
+      35,
+      51
+    ],
+    "soil": "sandy",
+    "season": "winter"
+  },
+  {
+    "crop": "Tea",
+    "tempRange": [
+      15,
+      20
+    ],
+    "humidityRange": [
+      49,
+      67
+    ],
+    "soil": "clay",
+    "season": "winter"
+  },
+  {
+    "crop": "Jute",
+    "tempRange": [
+      21,
+      26
+    ],
+    "humidityRange": [
+      32,
+      49
+    ],
+    "soil": "silty",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Cotton",
+    "tempRange": [
+      15,
+      29
+    ],
+    "humidityRange": [
+      52,
+      64
+    ],
+    "soil": "silty",
+    "season": "winter"
+  },
+  {
+    "crop": "Mustard",
+    "tempRange": [
+      16,
+      21
+    ],
+    "humidityRange": [
+      45,
+      68
+    ],
+    "soil": "silty",
+    "season": "summer"
+  },
+  {
+    "crop": "Coffee",
+    "tempRange": [
+      25,
+      37
+    ],
+    "humidityRange": [
+      52,
+      70
+    ],
+    "soil": "sandy",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Barley",
+    "tempRange": [
+      24,
+      39
+    ],
+    "humidityRange": [
+      38,
+      56
+    ],
+    "soil": "loamy",
+    "season": "summer"
+  },
+  {
+    "crop": "Pulses",
+    "tempRange": [
+      17,
+      22
+    ],
+    "humidityRange": [
+      58,
+      77
+    ],
+    "soil": "silty",
+    "season": "summer"
+  },
+  {
+    "crop": "Pea",
+    "tempRange": [
+      24,
+      35
+    ],
+    "humidityRange": [
+      30,
+      52
+    ],
+    "soil": "sandy",
+    "season": "summer"
+  },
+  {
+    "crop": "Rice",
+    "tempRange": [
+      14,
+      25
+    ],
+    "humidityRange": [
+      40,
+      52
+    ],
+    "soil": "loamy",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Wheat",
+    "tempRange": [
+      19,
+      33
+    ],
+    "humidityRange": [
+      57,
+      67
+    ],
+    "soil": "loamy",
+    "season": "winter"
+  },
+  {
+    "crop": "Gram",
+    "tempRange": [
+      10,
+      23
+    ],
+    "humidityRange": [
+      33,
+      47
+    ],
+    "soil": "clay",
+    "season": "summer"
+  },
+  {
+    "crop": "Wheat",
+    "tempRange": [
+      14,
+      23
+    ],
+    "humidityRange": [
+      37,
+      62
+    ],
+    "soil": "clay",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Pulses",
+    "tempRange": [
+      13,
+      24
+    ],
+    "humidityRange": [
+      32,
+      48
+    ],
+    "soil": "sandy",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Sugarcane",
+    "tempRange": [
+      16,
+      25
+    ],
+    "humidityRange": [
+      49,
+      76
+    ],
+    "soil": "loamy",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Lentil",
+    "tempRange": [
+      16,
+      26
+    ],
+    "humidityRange": [
+      34,
+      56
+    ],
+    "soil": "silty",
+    "season": "winter"
+  },
+  {
+    "crop": "Tea",
+    "tempRange": [
+      20,
+      31
+    ],
+    "humidityRange": [
+      59,
+      75
+    ],
+    "soil": "silty",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Pea",
+    "tempRange": [
+      21,
+      35
+    ],
+    "humidityRange": [
+      50,
+      65
+    ],
+    "soil": "sandy",
+    "season": "summer"
+  },
+  {
+    "crop": "Pea",
+    "tempRange": [
+      20,
+      28
+    ],
+    "humidityRange": [
+      51,
+      64
+    ],
+    "soil": "loamy",
+    "season": "summer"
+  },
+  {
+    "crop": "Pulses",
+    "tempRange": [
+      11,
+      21
+    ],
+    "humidityRange": [
+      38,
+      54
+    ],
+    "soil": "loamy",
+    "season": "winter"
+  },
+  {
+    "crop": "Sunflower",
+    "tempRange": [
+      17,
+      25
+    ],
+    "humidityRange": [
+      57,
+      79
+    ],
+    "soil": "sandy",
+    "season": "winter"
+  },
+  {
+    "crop": "Pulses",
+    "tempRange": [
+      17,
+      27
+    ],
+    "humidityRange": [
+      52,
+      66
+    ],
+    "soil": "silty",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Tea",
+    "tempRange": [
+      22,
+      32
+    ],
+    "humidityRange": [
+      48,
+      77
+    ],
+    "soil": "loamy",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Pulses",
+    "tempRange": [
+      16,
+      29
+    ],
+    "humidityRange": [
+      58,
+      80
+    ],
+    "soil": "loamy",
+    "season": "summer"
+  },
+  {
+    "crop": "Millet",
+    "tempRange": [
+      22,
+      34
+    ],
+    "humidityRange": [
+      49,
+      65
+    ],
+    "soil": "silty",
+    "season": "summer"
+  },
+  {
+    "crop": "Pea",
+    "tempRange": [
+      15,
+      27
+    ],
+    "humidityRange": [
+      39,
+      60
+    ],
+    "soil": "silty",
+    "season": "winter"
+  },
+  {
+    "crop": "Pulses",
+    "tempRange": [
+      14,
+      25
+    ],
+    "humidityRange": [
+      30,
+      55
+    ],
+    "soil": "sandy",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Rice",
+    "tempRange": [
+      15,
+      30
+    ],
+    "humidityRange": [
+      59,
+      88
+    ],
+    "soil": "silty",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Sorghum",
+    "tempRange": [
+      12,
+      22
+    ],
+    "humidityRange": [
+      31,
+      51
+    ],
+    "soil": "sandy",
+    "season": "summer"
+  },
+  {
+    "crop": "Tobacco",
+    "tempRange": [
+      14,
+      22
+    ],
+    "humidityRange": [
+      30,
+      54
+    ],
+    "soil": "silty",
+    "season": "summer"
+  },
+  {
+    "crop": "Mustard",
+    "tempRange": [
+      19,
+      30
+    ],
+    "humidityRange": [
+      44,
+      69
+    ],
+    "soil": "loamy",
+    "season": "winter"
+  },
+  {
+    "crop": "Pulses",
+    "tempRange": [
+      20,
+      26
+    ],
+    "humidityRange": [
+      32,
+      55
+    ],
+    "soil": "sandy",
+    "season": "summer"
+  },
+  {
+    "crop": "Sorghum",
+    "tempRange": [
+      14,
+      24
+    ],
+    "humidityRange": [
+      45,
+      75
+    ],
+    "soil": "clay",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Groundnut",
+    "tempRange": [
+      21,
+      33
+    ],
+    "humidityRange": [
+      54,
+      69
+    ],
+    "soil": "sandy",
+    "season": "winter"
+  },
+  {
+    "crop": "Sugarcane",
+    "tempRange": [
+      13,
+      23
+    ],
+    "humidityRange": [
+      36,
+      56
+    ],
+    "soil": "sandy",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Rice",
+    "tempRange": [
+      20,
+      33
+    ],
+    "humidityRange": [
+      53,
+      67
+    ],
+    "soil": "silty",
+    "season": "winter"
+  },
+  {
+    "crop": "Lentil",
+    "tempRange": [
+      25,
+      33
+    ],
+    "humidityRange": [
+      35,
+      52
+    ],
+    "soil": "loamy",
+    "season": "winter"
+  },
+  {
+    "crop": "Rice",
+    "tempRange": [
+      20,
+      25
+    ],
+    "humidityRange": [
+      32,
+      57
+    ],
+    "soil": "loamy",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Sorghum",
+    "tempRange": [
+      14,
+      27
+    ],
+    "humidityRange": [
+      52,
+      81
+    ],
+    "soil": "silty",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Rice",
+    "tempRange": [
+      10,
+      17
+    ],
+    "humidityRange": [
+      43,
+      71
+    ],
+    "soil": "silty",
+    "season": "winter"
+  },
+  {
+    "crop": "Millet",
+    "tempRange": [
+      14,
+      27
+    ],
+    "humidityRange": [
+      33,
+      54
+    ],
+    "soil": "silty",
+    "season": "winter"
+  },
+  {
+    "crop": "Wheat",
+    "tempRange": [
+      13,
+      18
+    ],
+    "humidityRange": [
+      34,
+      51
+    ],
+    "soil": "sandy",
+    "season": "winter"
+  },
+  {
+    "crop": "Tea",
+    "tempRange": [
+      19,
+      25
+    ],
+    "humidityRange": [
+      53,
+      80
+    ],
+    "soil": "clay",
+    "season": "summer"
+  },
+  {
+    "crop": "Pea",
+    "tempRange": [
+      23,
+      32
+    ],
+    "humidityRange": [
+      30,
+      52
+    ],
+    "soil": "silty",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Mustard",
+    "tempRange": [
+      11,
+      18
+    ],
+    "humidityRange": [
+      52,
+      71
+    ],
+    "soil": "sandy",
+    "season": "summer"
+  },
+  {
+    "crop": "Rice",
+    "tempRange": [
+      22,
+      35
+    ],
+    "humidityRange": [
+      60,
+      70
+    ],
+    "soil": "silty",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Lentil",
+    "tempRange": [
+      13,
+      19
+    ],
+    "humidityRange": [
+      30,
+      45
+    ],
+    "soil": "loamy",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Soybean",
+    "tempRange": [
+      11,
+      18
+    ],
+    "humidityRange": [
+      48,
+      58
+    ],
+    "soil": "sandy",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Soybean",
+    "tempRange": [
+      14,
+      29
+    ],
+    "humidityRange": [
+      44,
+      56
+    ],
+    "soil": "loamy",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Pulses",
+    "tempRange": [
+      23,
+      33
+    ],
+    "humidityRange": [
+      39,
+      59
+    ],
+    "soil": "clay",
+    "season": "summer"
+  },
+  {
+    "crop": "Cotton",
+    "tempRange": [
+      17,
+      23
+    ],
+    "humidityRange": [
+      52,
+      69
+    ],
+    "soil": "silty",
+    "season": "winter"
+  },
+  {
+    "crop": "Pulses",
+    "tempRange": [
+      17,
+      23
+    ],
+    "humidityRange": [
+      43,
+      53
+    ],
+    "soil": "silty",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Wheat",
+    "tempRange": [
+      16,
+      28
+    ],
+    "humidityRange": [
+      48,
+      77
+    ],
+    "soil": "loamy",
+    "season": "summer"
+  },
+  {
+    "crop": "Barley",
+    "tempRange": [
+      20,
+      31
+    ],
+    "humidityRange": [
+      31,
+      49
+    ],
+    "soil": "loamy",
+    "season": "summer"
+  },
+  {
+    "crop": "Mustard",
+    "tempRange": [
+      18,
+      33
+    ],
+    "humidityRange": [
+      56,
+      86
+    ],
+    "soil": "silty",
+    "season": "summer"
+  },
+  {
+    "crop": "Lentil",
+    "tempRange": [
+      17,
+      31
+    ],
+    "humidityRange": [
+      48,
+      76
+    ],
+    "soil": "clay",
+    "season": "winter"
+  },
+  {
+    "crop": "Groundnut",
+    "tempRange": [
+      21,
+      36
+    ],
+    "humidityRange": [
+      42,
+      60
+    ],
+    "soil": "clay",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Pea",
+    "tempRange": [
+      25,
+      36
+    ],
+    "humidityRange": [
+      52,
+      63
+    ],
+    "soil": "loamy",
+    "season": "summer"
+  },
+  {
+    "crop": "Tobacco",
+    "tempRange": [
+      18,
+      27
+    ],
+    "humidityRange": [
+      45,
+      57
+    ],
+    "soil": "clay",
+    "season": "summer"
+  },
+  {
+    "crop": "Groundnut",
+    "tempRange": [
+      22,
+      30
+    ],
+    "humidityRange": [
+      52,
+      78
+    ],
+    "soil": "clay",
+    "season": "summer"
+  },
+  {
+    "crop": "Jute",
+    "tempRange": [
+      10,
+      18
+    ],
+    "humidityRange": [
+      48,
+      73
+    ],
+    "soil": "sandy",
+    "season": "winter"
+  },
+  {
+    "crop": "Sugarcane",
+    "tempRange": [
+      24,
+      30
+    ],
+    "humidityRange": [
+      33,
+      46
+    ],
+    "soil": "loamy",
+    "season": "summer"
+  },
+  {
+    "crop": "Mustard",
+    "tempRange": [
+      22,
+      35
+    ],
+    "humidityRange": [
+      60,
+      76
+    ],
+    "soil": "sandy",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Pulses",
+    "tempRange": [
+      10,
+      22
+    ],
+    "humidityRange": [
+      59,
+      80
+    ],
+    "soil": "clay",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Jute",
+    "tempRange": [
+      24,
+      36
+    ],
+    "humidityRange": [
+      37,
+      58
+    ],
+    "soil": "sandy",
+    "season": "winter"
+  },
+  {
+    "crop": "Sugarcane",
+    "tempRange": [
+      19,
+      25
+    ],
+    "humidityRange": [
+      55,
+      74
+    ],
+    "soil": "clay",
+    "season": "summer"
+  },
+  {
+    "crop": "Tea",
+    "tempRange": [
+      22,
+      37
+    ],
+    "humidityRange": [
+      46,
+      70
+    ],
+    "soil": "loamy",
+    "season": "winter"
+  },
+  {
+    "crop": "Tea",
+    "tempRange": [
+      19,
+      32
+    ],
+    "humidityRange": [
+      39,
+      60
+    ],
+    "soil": "sandy",
+    "season": "summer"
+  },
+  {
+    "crop": "Sugarcane",
+    "tempRange": [
+      14,
+      29
+    ],
+    "humidityRange": [
+      45,
+      62
+    ],
+    "soil": "loamy",
+    "season": "winter"
+  },
+  {
+    "crop": "Barley",
+    "tempRange": [
+      13,
+      24
+    ],
+    "humidityRange": [
+      30,
+      42
+    ],
+    "soil": "loamy",
+    "season": "winter"
+  },
+  {
+    "crop": "Mustard",
+    "tempRange": [
+      19,
+      34
+    ],
+    "humidityRange": [
+      33,
+      56
+    ],
+    "soil": "clay",
+    "season": "summer"
+  },
+  {
+    "crop": "Pea",
+    "tempRange": [
+      20,
+      26
+    ],
+    "humidityRange": [
+      31,
+      55
+    ],
+    "soil": "sandy",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Lentil",
+    "tempRange": [
+      23,
+      33
+    ],
+    "humidityRange": [
+      38,
+      61
+    ],
+    "soil": "silty",
+    "season": "summer"
+  },
+  {
+    "crop": "Tobacco",
+    "tempRange": [
+      15,
+      30
+    ],
+    "humidityRange": [
+      44,
+      57
+    ],
+    "soil": "clay",
+    "season": "summer"
+  },
+  {
+    "crop": "Sorghum",
+    "tempRange": [
+      10,
+      15
+    ],
+    "humidityRange": [
+      54,
+      64
+    ],
+    "soil": "sandy",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Groundnut",
+    "tempRange": [
+      14,
+      25
+    ],
+    "humidityRange": [
+      51,
+      69
+    ],
+    "soil": "clay",
+    "season": "summer"
+  },
+  {
+    "crop": "Pulses",
+    "tempRange": [
+      18,
+      32
+    ],
+    "humidityRange": [
+      40,
+      67
+    ],
+    "soil": "loamy",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Pulses",
+    "tempRange": [
+      11,
+      21
+    ],
+    "humidityRange": [
+      48,
+      67
+    ],
+    "soil": "sandy",
+    "season": "summer"
+  },
+  {
+    "crop": "Cotton",
+    "tempRange": [
+      12,
+      26
+    ],
+    "humidityRange": [
+      32,
+      57
+    ],
+    "soil": "silty",
+    "season": "summer"
+  },
+  {
+    "crop": "Mustard",
+    "tempRange": [
+      14,
+      19
+    ],
+    "humidityRange": [
+      37,
+      56
+    ],
+    "soil": "clay",
+    "season": "summer"
+  },
+  {
+    "crop": "Jute",
+    "tempRange": [
+      24,
+      31
+    ],
+    "humidityRange": [
+      60,
+      83
+    ],
+    "soil": "clay",
+    "season": "summer"
+  },
+  {
+    "crop": "Millet",
+    "tempRange": [
+      19,
+      29
+    ],
+    "humidityRange": [
+      37,
+      63
+    ],
+    "soil": "silty",
+    "season": "summer"
+  },
+  {
+    "crop": "Maize",
+    "tempRange": [
+      13,
+      25
+    ],
+    "humidityRange": [
+      45,
+      67
+    ],
+    "soil": "silty",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Sunflower",
+    "tempRange": [
+      19,
+      30
+    ],
+    "humidityRange": [
+      47,
+      58
+    ],
+    "soil": "clay",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Sunflower",
+    "tempRange": [
+      15,
+      23
+    ],
+    "humidityRange": [
+      31,
+      45
+    ],
+    "soil": "sandy",
+    "season": "winter"
+  },
+  {
+    "crop": "Tea",
+    "tempRange": [
+      10,
+      25
+    ],
+    "humidityRange": [
+      30,
+      59
+    ],
+    "soil": "loamy",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Barley",
+    "tempRange": [
+      20,
+      27
+    ],
+    "humidityRange": [
+      40,
+      59
+    ],
+    "soil": "loamy",
+    "season": "summer"
+  },
+  {
+    "crop": "Sorghum",
+    "tempRange": [
+      11,
+      21
+    ],
+    "humidityRange": [
+      41,
+      52
+    ],
+    "soil": "loamy",
+    "season": "winter"
+  },
+  {
+    "crop": "Maize",
+    "tempRange": [
+      20,
+      31
+    ],
+    "humidityRange": [
+      36,
+      62
+    ],
+    "soil": "clay",
+    "season": "summer"
+  },
+  {
+    "crop": "Millet",
+    "tempRange": [
+      20,
+      30
+    ],
+    "humidityRange": [
+      49,
+      72
+    ],
+    "soil": "sandy",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Jute",
+    "tempRange": [
+      20,
+      26
+    ],
+    "humidityRange": [
+      50,
+      68
+    ],
+    "soil": "clay",
+    "season": "summer"
+  },
+  {
+    "crop": "Jute",
+    "tempRange": [
+      24,
+      39
+    ],
+    "humidityRange": [
+      48,
+      60
+    ],
+    "soil": "clay",
+    "season": "summer"
+  },
+  {
+    "crop": "Soybean",
+    "tempRange": [
+      19,
+      28
+    ],
+    "humidityRange": [
+      40,
+      69
+    ],
+    "soil": "clay",
+    "season": "winter"
+  },
+  {
+    "crop": "Barley",
+    "tempRange": [
+      21,
+      30
+    ],
+    "humidityRange": [
+      32,
+      46
+    ],
+    "soil": "loamy",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Tobacco",
+    "tempRange": [
+      18,
+      25
+    ],
+    "humidityRange": [
+      53,
+      67
+    ],
+    "soil": "sandy",
+    "season": "summer"
+  },
+  {
+    "crop": "Tea",
+    "tempRange": [
+      21,
+      26
+    ],
+    "humidityRange": [
+      45,
+      73
+    ],
+    "soil": "clay",
+    "season": "summer"
+  },
+  {
+    "crop": "Pulses",
+    "tempRange": [
+      25,
+      31
+    ],
+    "humidityRange": [
+      44,
+      73
+    ],
+    "soil": "clay",
+    "season": "winter"
+  },
+  {
+    "crop": "Tea",
+    "tempRange": [
+      12,
+      22
+    ],
+    "humidityRange": [
+      44,
+      68
+    ],
+    "soil": "clay",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Groundnut",
+    "tempRange": [
+      10,
+      23
+    ],
+    "humidityRange": [
+      49,
+      60
+    ],
+    "soil": "loamy",
+    "season": "winter"
+  },
+  {
+    "crop": "Sunflower",
+    "tempRange": [
+      20,
+      25
+    ],
+    "humidityRange": [
+      42,
+      53
+    ],
+    "soil": "clay",
+    "season": "summer"
+  },
+  {
+    "crop": "Jute",
+    "tempRange": [
+      12,
+      23
+    ],
+    "humidityRange": [
+      34,
+      52
+    ],
+    "soil": "sandy",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Cotton",
+    "tempRange": [
+      21,
+      32
+    ],
+    "humidityRange": [
+      32,
+      43
+    ],
+    "soil": "silty",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Gram",
+    "tempRange": [
+      24,
+      35
+    ],
+    "humidityRange": [
+      37,
+      60
+    ],
+    "soil": "loamy",
+    "season": "summer"
+  },
+  {
+    "crop": "Wheat",
+    "tempRange": [
+      21,
+      33
+    ],
+    "humidityRange": [
+      45,
+      60
+    ],
+    "soil": "loamy",
+    "season": "winter"
+  },
+  {
+    "crop": "Pea",
+    "tempRange": [
+      12,
+      20
+    ],
+    "humidityRange": [
+      51,
+      80
+    ],
+    "soil": "sandy",
+    "season": "winter"
+  },
+  {
+    "crop": "Wheat",
+    "tempRange": [
+      21,
+      35
+    ],
+    "humidityRange": [
+      51,
+      79
+    ],
+    "soil": "loamy",
+    "season": "winter"
+  },
+  {
+    "crop": "Sunflower",
+    "tempRange": [
+      22,
+      30
+    ],
+    "humidityRange": [
+      35,
+      47
+    ],
+    "soil": "silty",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Maize",
+    "tempRange": [
+      20,
+      26
+    ],
+    "humidityRange": [
+      33,
+      51
+    ],
+    "soil": "loamy",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Cotton",
+    "tempRange": [
+      24,
+      36
+    ],
+    "humidityRange": [
+      40,
+      57
+    ],
+    "soil": "loamy",
+    "season": "summer"
+  },
+  {
+    "crop": "Gram",
+    "tempRange": [
+      18,
+      27
+    ],
+    "humidityRange": [
+      38,
+      51
+    ],
+    "soil": "clay",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Rice",
+    "tempRange": [
+      21,
+      28
+    ],
+    "humidityRange": [
+      32,
+      61
+    ],
+    "soil": "silty",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Tobacco",
+    "tempRange": [
+      24,
+      33
+    ],
+    "humidityRange": [
+      34,
+      58
+    ],
+    "soil": "sandy",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Lentil",
+    "tempRange": [
+      14,
+      27
+    ],
+    "humidityRange": [
+      51,
+      73
+    ],
+    "soil": "sandy",
+    "season": "summer"
+  },
+  {
+    "crop": "Cotton",
+    "tempRange": [
+      20,
+      33
+    ],
+    "humidityRange": [
+      57,
+      84
+    ],
+    "soil": "sandy",
+    "season": "summer"
+  },
+  {
+    "crop": "Millet",
+    "tempRange": [
+      14,
+      19
+    ],
+    "humidityRange": [
+      38,
+      51
+    ],
+    "soil": "sandy",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Sorghum",
+    "tempRange": [
+      24,
+      32
+    ],
+    "humidityRange": [
+      41,
+      55
+    ],
+    "soil": "sandy",
+    "season": "summer"
+  },
+  {
+    "crop": "Tea",
+    "tempRange": [
+      22,
+      30
+    ],
+    "humidityRange": [
+      55,
+      82
+    ],
+    "soil": "loamy",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Millet",
+    "tempRange": [
+      12,
+      21
+    ],
+    "humidityRange": [
+      40,
+      66
+    ],
+    "soil": "sandy",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Millet",
+    "tempRange": [
+      11,
+      20
+    ],
+    "humidityRange": [
+      37,
+      59
+    ],
+    "soil": "loamy",
+    "season": "summer"
+  },
+  {
+    "crop": "Sunflower",
+    "tempRange": [
+      18,
+      23
+    ],
+    "humidityRange": [
+      55,
+      76
+    ],
+    "soil": "loamy",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Tobacco",
+    "tempRange": [
+      23,
+      38
+    ],
+    "humidityRange": [
+      54,
+      67
+    ],
+    "soil": "silty",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Sugarcane",
+    "tempRange": [
+      24,
+      31
+    ],
+    "humidityRange": [
+      32,
+      58
+    ],
+    "soil": "silty",
+    "season": "winter"
+  },
+  {
+    "crop": "Mustard",
+    "tempRange": [
+      19,
+      29
+    ],
+    "humidityRange": [
+      56,
+      83
+    ],
+    "soil": "loamy",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Mustard",
+    "tempRange": [
+      14,
+      20
+    ],
+    "humidityRange": [
+      40,
+      58
+    ],
+    "soil": "silty",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Rice",
+    "tempRange": [
+      17,
+      24
+    ],
+    "humidityRange": [
+      59,
+      86
+    ],
+    "soil": "loamy",
+    "season": "summer"
+  },
+  {
+    "crop": "Wheat",
+    "tempRange": [
+      16,
+      27
+    ],
+    "humidityRange": [
+      33,
+      49
+    ],
+    "soil": "sandy",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Lentil",
+    "tempRange": [
+      25,
+      31
+    ],
+    "humidityRange": [
+      52,
+      72
+    ],
+    "soil": "sandy",
+    "season": "winter"
+  },
+  {
+    "crop": "Sunflower",
+    "tempRange": [
+      20,
+      27
+    ],
+    "humidityRange": [
+      49,
+      62
+    ],
+    "soil": "silty",
+    "season": "winter"
+  },
+  {
+    "crop": "Soybean",
+    "tempRange": [
+      13,
+      26
+    ],
+    "humidityRange": [
+      38,
+      53
+    ],
+    "soil": "sandy",
+    "season": "summer"
+  },
+  {
+    "crop": "Tea",
+    "tempRange": [
+      18,
+      27
+    ],
+    "humidityRange": [
+      47,
+      60
+    ],
+    "soil": "clay",
+    "season": "summer"
+  },
+  {
+    "crop": "Rice",
+    "tempRange": [
+      16,
+      25
+    ],
+    "humidityRange": [
+      57,
+      69
+    ],
+    "soil": "loamy",
+    "season": "summer"
+  },
+  {
+    "crop": "Soybean",
+    "tempRange": [
+      25,
+      35
+    ],
+    "humidityRange": [
+      46,
+      58
+    ],
+    "soil": "sandy",
+    "season": "winter"
+  },
+  {
+    "crop": "Barley",
+    "tempRange": [
+      12,
+      26
+    ],
+    "humidityRange": [
+      41,
+      62
+    ],
+    "soil": "silty",
+    "season": "summer"
+  },
+  {
+    "crop": "Rice",
+    "tempRange": [
+      23,
+      32
+    ],
+    "humidityRange": [
+      36,
+      57
+    ],
+    "soil": "clay",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Sorghum",
+    "tempRange": [
+      24,
+      37
+    ],
+    "humidityRange": [
+      55,
+      81
+    ],
+    "soil": "silty",
+    "season": "winter"
+  },
+  {
+    "crop": "Jute",
+    "tempRange": [
+      13,
+      19
+    ],
+    "humidityRange": [
+      40,
+      50
+    ],
+    "soil": "silty",
+    "season": "summer"
+  },
+  {
+    "crop": "Pulses",
+    "tempRange": [
+      11,
+      21
+    ],
+    "humidityRange": [
+      46,
+      56
+    ],
+    "soil": "loamy",
+    "season": "winter"
+  },
+  {
+    "crop": "Jute",
+    "tempRange": [
+      16,
+      21
+    ],
+    "humidityRange": [
+      40,
+      64
+    ],
+    "soil": "sandy",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Groundnut",
+    "tempRange": [
+      21,
+      36
+    ],
+    "humidityRange": [
+      46,
+      71
+    ],
+    "soil": "sandy",
+    "season": "summer"
+  },
+  {
+    "crop": "Pulses",
+    "tempRange": [
+      25,
+      40
+    ],
+    "humidityRange": [
+      52,
+      69
+    ],
+    "soil": "clay",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Maize",
+    "tempRange": [
+      13,
+      21
+    ],
+    "humidityRange": [
+      33,
+      57
+    ],
+    "soil": "clay",
+    "season": "summer"
+  },
+  {
+    "crop": "Soybean",
+    "tempRange": [
+      10,
+      16
+    ],
+    "humidityRange": [
+      32,
+      43
+    ],
+    "soil": "loamy",
+    "season": "winter"
+  },
+  {
+    "crop": "Millet",
+    "tempRange": [
+      13,
+      20
+    ],
+    "humidityRange": [
+      56,
+      83
+    ],
+    "soil": "sandy",
+    "season": "winter"
+  },
+  {
+    "crop": "Mustard",
+    "tempRange": [
+      24,
+      35
+    ],
+    "humidityRange": [
+      58,
+      68
+    ],
+    "soil": "clay",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Lentil",
+    "tempRange": [
+      11,
+      17
+    ],
+    "humidityRange": [
+      59,
+      80
+    ],
+    "soil": "silty",
+    "season": "winter"
+  },
+  {
+    "crop": "Tea",
+    "tempRange": [
+      14,
+      29
+    ],
+    "humidityRange": [
+      55,
+      76
+    ],
+    "soil": "loamy",
+    "season": "winter"
+  },
+  {
+    "crop": "Groundnut",
+    "tempRange": [
+      19,
+      24
+    ],
+    "humidityRange": [
+      43,
+      62
+    ],
+    "soil": "loamy",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Tea",
+    "tempRange": [
+      13,
+      21
+    ],
+    "humidityRange": [
+      31,
+      47
+    ],
+    "soil": "sandy",
+    "season": "winter"
+  },
+  {
+    "crop": "Pulses",
+    "tempRange": [
+      12,
+      19
+    ],
+    "humidityRange": [
+      46,
+      57
+    ],
+    "soil": "silty",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Jute",
+    "tempRange": [
+      22,
+      28
+    ],
+    "humidityRange": [
+      39,
+      55
+    ],
+    "soil": "silty",
+    "season": "winter"
+  },
+  {
+    "crop": "Mustard",
+    "tempRange": [
+      18,
+      30
+    ],
+    "humidityRange": [
+      31,
+      42
+    ],
+    "soil": "loamy",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Millet",
+    "tempRange": [
+      25,
+      34
+    ],
+    "humidityRange": [
+      40,
+      55
+    ],
+    "soil": "silty",
+    "season": "summer"
+  },
+  {
+    "crop": "Lentil",
+    "tempRange": [
+      25,
+      38
+    ],
+    "humidityRange": [
+      36,
+      49
+    ],
+    "soil": "silty",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Jute",
+    "tempRange": [
+      19,
+      26
+    ],
+    "humidityRange": [
+      39,
+      54
+    ],
+    "soil": "loamy",
+    "season": "winter"
+  },
+  {
+    "crop": "Tea",
+    "tempRange": [
+      18,
+      28
+    ],
+    "humidityRange": [
+      43,
+      55
+    ],
+    "soil": "silty",
+    "season": "summer"
+  },
+  {
+    "crop": "Sorghum",
+    "tempRange": [
+      23,
+      30
+    ],
+    "humidityRange": [
+      34,
+      53
+    ],
+    "soil": "clay",
+    "season": "winter"
+  },
+  {
+    "crop": "Pea",
+    "tempRange": [
+      25,
+      30
+    ],
+    "humidityRange": [
+      41,
+      66
+    ],
+    "soil": "clay",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Pulses",
+    "tempRange": [
+      12,
+      18
+    ],
+    "humidityRange": [
+      38,
+      59
+    ],
+    "soil": "clay",
+    "season": "summer"
+  },
+  {
+    "crop": "Maize",
+    "tempRange": [
+      11,
+      16
+    ],
+    "humidityRange": [
+      58,
+      80
+    ],
+    "soil": "clay",
+    "season": "summer"
+  },
+  {
+    "crop": "Jute",
+    "tempRange": [
+      20,
+      33
+    ],
+    "humidityRange": [
+      34,
+      54
+    ],
+    "soil": "sandy",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Tobacco",
+    "tempRange": [
+      12,
+      18
+    ],
+    "humidityRange": [
+      35,
+      56
+    ],
+    "soil": "sandy",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Lentil",
+    "tempRange": [
+      16,
+      26
+    ],
+    "humidityRange": [
+      36,
+      47
+    ],
+    "soil": "sandy",
+    "season": "winter"
+  },
+  {
+    "crop": "Mustard",
+    "tempRange": [
+      16,
+      27
+    ],
+    "humidityRange": [
+      42,
+      61
+    ],
+    "soil": "loamy",
+    "season": "summer"
+  },
+  {
+    "crop": "Maize",
+    "tempRange": [
+      22,
+      32
+    ],
+    "humidityRange": [
+      53,
+      67
+    ],
+    "soil": "silty",
+    "season": "winter"
+  },
+  {
+    "crop": "Pulses",
+    "tempRange": [
+      10,
+      16
+    ],
+    "humidityRange": [
+      53,
+      66
+    ],
+    "soil": "loamy",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Coffee",
+    "tempRange": [
+      12,
+      19
+    ],
+    "humidityRange": [
+      55,
+      81
+    ],
+    "soil": "loamy",
+    "season": "winter"
+  },
+  {
+    "crop": "Lentil",
+    "tempRange": [
+      16,
+      28
+    ],
+    "humidityRange": [
+      50,
+      75
+    ],
+    "soil": "clay",
+    "season": "winter"
+  },
+  {
+    "crop": "Lentil",
+    "tempRange": [
+      20,
+      32
+    ],
+    "humidityRange": [
+      47,
+      69
+    ],
+    "soil": "clay",
+    "season": "winter"
+  },
+  {
+    "crop": "Soybean",
+    "tempRange": [
+      21,
+      35
+    ],
+    "humidityRange": [
+      59,
+      73
+    ],
+    "soil": "clay",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Gram",
+    "tempRange": [
+      15,
+      29
+    ],
+    "humidityRange": [
+      45,
+      58
+    ],
+    "soil": "silty",
+    "season": "summer"
+  },
+  {
+    "crop": "Pea",
+    "tempRange": [
+      19,
+      28
+    ],
+    "humidityRange": [
+      46,
+      60
+    ],
+    "soil": "clay",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Lentil",
+    "tempRange": [
+      20,
+      35
+    ],
+    "humidityRange": [
+      49,
+      69
+    ],
+    "soil": "clay",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Millet",
+    "tempRange": [
+      22,
+      36
+    ],
+    "humidityRange": [
+      45,
+      66
+    ],
+    "soil": "silty",
+    "season": "summer"
+  },
+  {
+    "crop": "Sunflower",
+    "tempRange": [
+      24,
+      33
+    ],
+    "humidityRange": [
+      58,
+      72
+    ],
+    "soil": "sandy",
+    "season": "summer"
+  },
+  {
+    "crop": "Soybean",
+    "tempRange": [
+      22,
+      29
+    ],
+    "humidityRange": [
+      56,
+      84
+    ],
+    "soil": "sandy",
+    "season": "winter"
+  },
+  {
+    "crop": "Groundnut",
+    "tempRange": [
+      16,
+      28
+    ],
+    "humidityRange": [
+      60,
+      74
+    ],
+    "soil": "silty",
+    "season": "summer"
+  },
+  {
+    "crop": "Sugarcane",
+    "tempRange": [
+      10,
+      22
+    ],
+    "humidityRange": [
+      59,
+      84
+    ],
+    "soil": "sandy",
+    "season": "summer"
+  },
+  {
+    "crop": "Gram",
+    "tempRange": [
+      20,
+      26
+    ],
+    "humidityRange": [
+      50,
+      63
+    ],
+    "soil": "silty",
+    "season": "winter"
+  },
+  {
+    "crop": "Soybean",
+    "tempRange": [
+      21,
+      32
+    ],
+    "humidityRange": [
+      46,
+      69
+    ],
+    "soil": "sandy",
+    "season": "winter"
+  },
+  {
+    "crop": "Pulses",
+    "tempRange": [
+      24,
+      35
+    ],
+    "humidityRange": [
+      42,
+      61
+    ],
+    "soil": "clay",
+    "season": "summer"
+  },
+  {
+    "crop": "Sunflower",
+    "tempRange": [
+      24,
+      32
+    ],
+    "humidityRange": [
+      30,
+      55
+    ],
+    "soil": "clay",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Coffee",
+    "tempRange": [
+      23,
+      31
+    ],
+    "humidityRange": [
+      31,
+      55
+    ],
+    "soil": "sandy",
+    "season": "winter"
+  },
+  {
+    "crop": "Cotton",
+    "tempRange": [
+      13,
+      28
+    ],
+    "humidityRange": [
+      39,
+      58
+    ],
+    "soil": "sandy",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Millet",
+    "tempRange": [
+      23,
+      32
+    ],
+    "humidityRange": [
+      54,
+      83
+    ],
+    "soil": "loamy",
+    "season": "summer"
+  },
+  {
+    "crop": "Maize",
+    "tempRange": [
+      25,
+      30
+    ],
+    "humidityRange": [
+      42,
+      65
+    ],
+    "soil": "loamy",
+    "season": "summer"
+  },
+  {
+    "crop": "Gram",
+    "tempRange": [
+      11,
+      20
+    ],
+    "humidityRange": [
+      34,
+      45
+    ],
+    "soil": "sandy",
+    "season": "winter"
+  },
+  {
+    "crop": "Groundnut",
+    "tempRange": [
+      24,
+      37
+    ],
+    "humidityRange": [
+      39,
+      59
+    ],
+    "soil": "sandy",
+    "season": "summer"
+  },
+  {
+    "crop": "Gram",
+    "tempRange": [
+      15,
+      22
+    ],
+    "humidityRange": [
+      49,
+      77
+    ],
+    "soil": "silty",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Tea",
+    "tempRange": [
+      13,
+      22
+    ],
+    "humidityRange": [
+      56,
+      70
+    ],
+    "soil": "sandy",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Soybean",
+    "tempRange": [
+      24,
+      30
+    ],
+    "humidityRange": [
+      55,
+      78
+    ],
+    "soil": "silty",
+    "season": "winter"
+  },
+  {
+    "crop": "Tea",
+    "tempRange": [
+      16,
+      31
+    ],
+    "humidityRange": [
+      32,
+      53
+    ],
+    "soil": "sandy",
+    "season": "summer"
+  },
+  {
+    "crop": "Jute",
+    "tempRange": [
+      22,
+      30
+    ],
+    "humidityRange": [
+      36,
+      66
+    ],
+    "soil": "clay",
+    "season": "winter"
+  },
+  {
+    "crop": "Maize",
+    "tempRange": [
+      20,
+      31
+    ],
+    "humidityRange": [
+      36,
+      63
+    ],
+    "soil": "silty",
+    "season": "summer"
+  },
+  {
+    "crop": "Groundnut",
+    "tempRange": [
+      10,
+      21
+    ],
+    "humidityRange": [
+      33,
+      49
+    ],
+    "soil": "clay",
+    "season": "winter"
+  },
+  {
+    "crop": "Lentil",
+    "tempRange": [
+      10,
+      16
+    ],
+    "humidityRange": [
+      51,
+      75
+    ],
+    "soil": "silty",
+    "season": "summer"
+  },
+  {
+    "crop": "Soybean",
+    "tempRange": [
+      15,
+      20
+    ],
+    "humidityRange": [
+      48,
+      74
+    ],
+    "soil": "sandy",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Tobacco",
+    "tempRange": [
+      23,
+      33
+    ],
+    "humidityRange": [
+      33,
+      44
+    ],
+    "soil": "loamy",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Groundnut",
+    "tempRange": [
+      11,
+      17
+    ],
+    "humidityRange": [
+      60,
+      70
+    ],
+    "soil": "loamy",
+    "season": "winter"
+  },
+  {
+    "crop": "Sorghum",
+    "tempRange": [
+      18,
+      32
+    ],
+    "humidityRange": [
+      34,
+      45
+    ],
+    "soil": "clay",
+    "season": "summer"
+  },
+  {
+    "crop": "Gram",
+    "tempRange": [
+      25,
+      40
+    ],
+    "humidityRange": [
+      48,
+      59
+    ],
+    "soil": "clay",
+    "season": "winter"
+  },
+  {
+    "crop": "Maize",
+    "tempRange": [
+      20,
+      27
+    ],
+    "humidityRange": [
+      51,
+      81
+    ],
+    "soil": "sandy",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Lentil",
+    "tempRange": [
+      20,
+      29
+    ],
+    "humidityRange": [
+      35,
+      50
+    ],
+    "soil": "sandy",
+    "season": "summer"
+  },
+  {
+    "crop": "Millet",
+    "tempRange": [
+      20,
+      30
+    ],
+    "humidityRange": [
+      57,
+      84
+    ],
+    "soil": "clay",
+    "season": "winter"
+  },
+  {
+    "crop": "Lentil",
+    "tempRange": [
+      20,
+      33
+    ],
+    "humidityRange": [
+      39,
+      52
+    ],
+    "soil": "sandy",
+    "season": "summer"
+  },
+  {
+    "crop": "Barley",
+    "tempRange": [
+      15,
+      24
+    ],
+    "humidityRange": [
+      55,
+      80
+    ],
+    "soil": "sandy",
+    "season": "summer"
+  },
+  {
+    "crop": "Tobacco",
+    "tempRange": [
+      22,
+      32
+    ],
+    "humidityRange": [
+      31,
+      44
+    ],
+    "soil": "clay",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Pulses",
+    "tempRange": [
+      14,
+      22
+    ],
+    "humidityRange": [
+      45,
+      57
+    ],
+    "soil": "sandy",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Barley",
+    "tempRange": [
+      10,
+      25
+    ],
+    "humidityRange": [
+      44,
+      65
+    ],
+    "soil": "clay",
+    "season": "summer"
+  },
+  {
+    "crop": "Lentil",
+    "tempRange": [
+      11,
+      18
+    ],
+    "humidityRange": [
+      42,
+      55
+    ],
+    "soil": "sandy",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Jute",
+    "tempRange": [
+      22,
+      30
+    ],
+    "humidityRange": [
+      50,
+      73
+    ],
+    "soil": "clay",
+    "season": "summer"
+  },
+  {
+    "crop": "Wheat",
+    "tempRange": [
+      20,
+      34
+    ],
+    "humidityRange": [
+      46,
+      61
+    ],
+    "soil": "loamy",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Rice",
+    "tempRange": [
+      21,
+      30
+    ],
+    "humidityRange": [
+      59,
+      85
+    ],
+    "soil": "loamy",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Sorghum",
+    "tempRange": [
+      23,
+      29
+    ],
+    "humidityRange": [
+      55,
+      78
+    ],
+    "soil": "loamy",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Wheat",
+    "tempRange": [
+      15,
+      29
+    ],
+    "humidityRange": [
+      48,
+      77
+    ],
+    "soil": "silty",
+    "season": "winter"
+  },
+  {
+    "crop": "Jute",
+    "tempRange": [
+      23,
+      32
+    ],
+    "humidityRange": [
+      56,
+      86
+    ],
+    "soil": "loamy",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Barley",
+    "tempRange": [
+      17,
+      32
+    ],
+    "humidityRange": [
+      56,
+      68
+    ],
+    "soil": "clay",
+    "season": "summer"
+  },
+  {
+    "crop": "Mustard",
+    "tempRange": [
+      11,
+      21
+    ],
+    "humidityRange": [
+      53,
+      65
+    ],
+    "soil": "silty",
+    "season": "winter"
+  },
+  {
+    "crop": "Sorghum",
+    "tempRange": [
+      14,
+      25
+    ],
+    "humidityRange": [
+      44,
+      70
+    ],
+    "soil": "sandy",
+    "season": "summer"
+  },
+  {
+    "crop": "Jute",
+    "tempRange": [
+      19,
+      33
+    ],
+    "humidityRange": [
+      36,
+      59
+    ],
+    "soil": "silty",
+    "season": "winter"
+  },
+  {
+    "crop": "Soybean",
+    "tempRange": [
+      13,
+      24
+    ],
+    "humidityRange": [
+      38,
+      61
+    ],
+    "soil": "sandy",
+    "season": "winter"
+  },
+  {
+    "crop": "Cotton",
+    "tempRange": [
+      17,
+      28
+    ],
+    "humidityRange": [
+      48,
+      63
+    ],
+    "soil": "clay",
+    "season": "summer"
+  },
+  {
+    "crop": "Tea",
+    "tempRange": [
+      11,
+      24
+    ],
+    "humidityRange": [
+      35,
+      65
+    ],
+    "soil": "silty",
+    "season": "winter"
+  },
+  {
+    "crop": "Cotton",
+    "tempRange": [
+      20,
+      26
+    ],
+    "humidityRange": [
+      35,
+      62
+    ],
+    "soil": "silty",
+    "season": "winter"
+  },
+  {
+    "crop": "Sunflower",
+    "tempRange": [
+      23,
+      30
+    ],
+    "humidityRange": [
+      48,
+      69
+    ],
+    "soil": "loamy",
+    "season": "winter"
+  },
+  {
+    "crop": "Groundnut",
+    "tempRange": [
+      15,
+      29
+    ],
+    "humidityRange": [
+      34,
+      62
+    ],
+    "soil": "sandy",
+    "season": "winter"
+  },
+  {
+    "crop": "Lentil",
+    "tempRange": [
+      24,
+      32
+    ],
+    "humidityRange": [
+      31,
+      43
+    ],
+    "soil": "loamy",
+    "season": "summer"
+  },
+  {
+    "crop": "Barley",
+    "tempRange": [
+      24,
+      29
+    ],
+    "humidityRange": [
+      31,
+      53
+    ],
+    "soil": "silty",
+    "season": "summer"
+  },
+  {
+    "crop": "Coffee",
+    "tempRange": [
+      12,
+      20
+    ],
+    "humidityRange": [
+      36,
+      66
+    ],
+    "soil": "clay",
+    "season": "winter"
+  },
+  {
+    "crop": "Groundnut",
+    "tempRange": [
+      23,
+      32
+    ],
+    "humidityRange": [
+      53,
+      75
+    ],
+    "soil": "clay",
+    "season": "summer"
+  },
+  {
+    "crop": "Sugarcane",
+    "tempRange": [
+      22,
+      31
+    ],
+    "humidityRange": [
+      44,
+      61
+    ],
+    "soil": "loamy",
+    "season": "winter"
+  },
+  {
+    "crop": "Cotton",
+    "tempRange": [
+      16,
+      29
+    ],
+    "humidityRange": [
+      34,
+      46
+    ],
+    "soil": "clay",
+    "season": "winter"
+  },
+  {
+    "crop": "Maize",
+    "tempRange": [
+      11,
+      20
+    ],
+    "humidityRange": [
+      38,
+      54
+    ],
+    "soil": "loamy",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Sorghum",
+    "tempRange": [
+      20,
+      30
+    ],
+    "humidityRange": [
+      55,
+      75
+    ],
+    "soil": "loamy",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Jute",
+    "tempRange": [
+      21,
+      31
+    ],
+    "humidityRange": [
+      41,
+      67
+    ],
+    "soil": "clay",
+    "season": "winter"
+  },
+  {
+    "crop": "Sorghum",
+    "tempRange": [
+      16,
+      30
+    ],
+    "humidityRange": [
+      34,
+      60
+    ],
+    "soil": "clay",
+    "season": "winter"
+  },
+  {
+    "crop": "Wheat",
+    "tempRange": [
+      17,
+      32
+    ],
+    "humidityRange": [
+      46,
+      67
+    ],
+    "soil": "silty",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Cotton",
+    "tempRange": [
+      24,
+      38
+    ],
+    "humidityRange": [
+      37,
+      47
+    ],
+    "soil": "silty",
+    "season": "winter"
+  },
+  {
+    "crop": "Pea",
+    "tempRange": [
+      18,
+      30
+    ],
+    "humidityRange": [
+      51,
+      71
+    ],
+    "soil": "sandy",
+    "season": "summer"
+  },
+  {
+    "crop": "Mustard",
+    "tempRange": [
+      19,
+      26
+    ],
+    "humidityRange": [
+      42,
+      58
+    ],
+    "soil": "loamy",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Gram",
+    "tempRange": [
+      14,
+      27
+    ],
+    "humidityRange": [
+      47,
+      77
+    ],
+    "soil": "sandy",
+    "season": "winter"
+  },
+  {
+    "crop": "Tea",
+    "tempRange": [
+      18,
+      29
+    ],
+    "humidityRange": [
+      42,
+      55
+    ],
+    "soil": "sandy",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Jute",
+    "tempRange": [
+      19,
+      33
+    ],
+    "humidityRange": [
+      33,
+      49
+    ],
+    "soil": "loamy",
+    "season": "winter"
+  },
+  {
+    "crop": "Gram",
+    "tempRange": [
+      16,
+      21
+    ],
+    "humidityRange": [
+      40,
+      68
+    ],
+    "soil": "clay",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Sorghum",
+    "tempRange": [
+      22,
+      37
+    ],
+    "humidityRange": [
+      47,
+      67
+    ],
+    "soil": "silty",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Mustard",
+    "tempRange": [
+      23,
+      31
+    ],
+    "humidityRange": [
+      30,
+      51
+    ],
+    "soil": "sandy",
+    "season": "winter"
+  },
+  {
+    "crop": "Pea",
+    "tempRange": [
+      11,
+      26
+    ],
+    "humidityRange": [
+      39,
+      54
+    ],
+    "soil": "clay",
+    "season": "winter"
+  },
+  {
+    "crop": "Groundnut",
+    "tempRange": [
+      10,
+      25
+    ],
+    "humidityRange": [
+      34,
+      48
+    ],
+    "soil": "silty",
+    "season": "winter"
+  },
+  {
+    "crop": "Gram",
+    "tempRange": [
+      11,
+      17
+    ],
+    "humidityRange": [
+      57,
+      81
+    ],
+    "soil": "sandy",
+    "season": "summer"
+  },
+  {
+    "crop": "Millet",
+    "tempRange": [
+      15,
+      23
+    ],
+    "humidityRange": [
+      38,
+      51
+    ],
+    "soil": "sandy",
+    "season": "summer"
+  },
+  {
+    "crop": "Sorghum",
+    "tempRange": [
+      18,
+      28
+    ],
+    "humidityRange": [
+      57,
+      76
+    ],
+    "soil": "sandy",
+    "season": "summer"
+  },
+  {
+    "crop": "Rice",
+    "tempRange": [
+      18,
+      26
+    ],
+    "humidityRange": [
+      56,
+      80
+    ],
+    "soil": "sandy",
+    "season": "summer"
+  },
+  {
+    "crop": "Mustard",
+    "tempRange": [
+      19,
+      32
+    ],
+    "humidityRange": [
+      30,
+      52
+    ],
+    "soil": "clay",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Pea",
+    "tempRange": [
+      23,
+      33
+    ],
+    "humidityRange": [
+      48,
+      76
+    ],
+    "soil": "clay",
+    "season": "winter"
+  },
+  {
+    "crop": "Cotton",
+    "tempRange": [
+      16,
+      24
+    ],
+    "humidityRange": [
+      55,
+      81
+    ],
+    "soil": "clay",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Millet",
+    "tempRange": [
+      11,
+      26
+    ],
+    "humidityRange": [
+      51,
+      76
+    ],
+    "soil": "clay",
+    "season": "summer"
+  },
+  {
+    "crop": "Cotton",
+    "tempRange": [
+      20,
+      32
+    ],
+    "humidityRange": [
+      32,
+      55
+    ],
+    "soil": "loamy",
+    "season": "winter"
+  },
+  {
+    "crop": "Sunflower",
+    "tempRange": [
+      13,
+      25
+    ],
+    "humidityRange": [
+      51,
+      78
+    ],
+    "soil": "loamy",
+    "season": "winter"
+  },
+  {
+    "crop": "Millet",
+    "tempRange": [
+      22,
+      28
+    ],
+    "humidityRange": [
+      50,
+      63
+    ],
+    "soil": "clay",
+    "season": "winter"
+  },
+  {
+    "crop": "Pea",
+    "tempRange": [
+      22,
+      27
+    ],
+    "humidityRange": [
+      55,
+      81
+    ],
+    "soil": "clay",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Groundnut",
+    "tempRange": [
+      17,
+      23
+    ],
+    "humidityRange": [
+      35,
+      57
+    ],
+    "soil": "clay",
+    "season": "winter"
+  },
+  {
+    "crop": "Pulses",
+    "tempRange": [
+      23,
+      33
+    ],
+    "humidityRange": [
+      60,
+      83
+    ],
+    "soil": "clay",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Cotton",
+    "tempRange": [
+      10,
+      18
+    ],
+    "humidityRange": [
+      35,
+      51
+    ],
+    "soil": "sandy",
+    "season": "summer"
+  },
+  {
+    "crop": "Sugarcane",
+    "tempRange": [
+      23,
+      32
+    ],
+    "humidityRange": [
+      50,
+      69
+    ],
+    "soil": "loamy",
+    "season": "winter"
+  },
+  {
+    "crop": "Gram",
+    "tempRange": [
+      13,
+      21
+    ],
+    "humidityRange": [
+      33,
+      56
+    ],
+    "soil": "clay",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Sunflower",
+    "tempRange": [
+      16,
+      22
+    ],
+    "humidityRange": [
+      38,
+      63
+    ],
+    "soil": "clay",
+    "season": "winter"
+  },
+  {
+    "crop": "Pulses",
+    "tempRange": [
+      23,
+      32
+    ],
+    "humidityRange": [
+      39,
+      67
+    ],
+    "soil": "clay",
+    "season": "winter"
+  },
+  {
+    "crop": "Tobacco",
+    "tempRange": [
+      16,
+      29
+    ],
+    "humidityRange": [
+      57,
+      76
+    ],
+    "soil": "sandy",
+    "season": "winter"
+  },
+  {
+    "crop": "Sorghum",
+    "tempRange": [
+      16,
+      26
+    ],
+    "humidityRange": [
+      30,
+      59
+    ],
+    "soil": "silty",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Wheat",
+    "tempRange": [
+      13,
+      18
+    ],
+    "humidityRange": [
+      48,
+      76
+    ],
+    "soil": "sandy",
+    "season": "summer"
+  },
+  {
+    "crop": "Pea",
+    "tempRange": [
+      22,
+      32
+    ],
+    "humidityRange": [
+      37,
+      60
+    ],
+    "soil": "silty",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Sorghum",
+    "tempRange": [
+      13,
+      19
+    ],
+    "humidityRange": [
+      33,
+      56
+    ],
+    "soil": "silty",
+    "season": "winter"
+  },
+  {
+    "crop": "Pea",
+    "tempRange": [
+      12,
+      21
+    ],
+    "humidityRange": [
+      32,
+      46
+    ],
+    "soil": "silty",
+    "season": "winter"
+  },
+  {
+    "crop": "Coffee",
+    "tempRange": [
+      21,
+      32
+    ],
+    "humidityRange": [
+      34,
+      45
+    ],
+    "soil": "silty",
+    "season": "winter"
+  },
+  {
+    "crop": "Mustard",
+    "tempRange": [
+      10,
+      15
+    ],
+    "humidityRange": [
+      45,
+      58
+    ],
+    "soil": "sandy",
+    "season": "summer"
+  },
+  {
+    "crop": "Coffee",
+    "tempRange": [
+      15,
+      24
+    ],
+    "humidityRange": [
+      42,
+      58
+    ],
+    "soil": "loamy",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Tobacco",
+    "tempRange": [
+      22,
+      35
+    ],
+    "humidityRange": [
+      50,
+      80
+    ],
+    "soil": "loamy",
+    "season": "summer"
+  },
+  {
+    "crop": "Coffee",
+    "tempRange": [
+      16,
+      26
+    ],
+    "humidityRange": [
+      59,
+      70
+    ],
+    "soil": "sandy",
+    "season": "winter"
+  },
+  {
+    "crop": "Groundnut",
+    "tempRange": [
+      18,
+      25
+    ],
+    "humidityRange": [
+      48,
+      75
+    ],
+    "soil": "sandy",
+    "season": "summer"
+  },
+  {
+    "crop": "Sunflower",
+    "tempRange": [
+      20,
+      33
+    ],
+    "humidityRange": [
+      39,
+      50
+    ],
+    "soil": "loamy",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Lentil",
+    "tempRange": [
+      22,
+      35
+    ],
+    "humidityRange": [
+      43,
+      73
+    ],
+    "soil": "silty",
+    "season": "winter"
+  },
+  {
+    "crop": "Pea",
+    "tempRange": [
+      25,
+      34
+    ],
+    "humidityRange": [
+      34,
+      63
+    ],
+    "soil": "sandy",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Gram",
+    "tempRange": [
+      17,
+      29
+    ],
+    "humidityRange": [
+      49,
+      62
+    ],
+    "soil": "loamy",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Soybean",
+    "tempRange": [
+      15,
+      22
+    ],
+    "humidityRange": [
+      42,
+      59
+    ],
+    "soil": "clay",
+    "season": "winter"
+  },
+  {
+    "crop": "Sorghum",
+    "tempRange": [
+      12,
+      20
+    ],
+    "humidityRange": [
+      51,
+      72
+    ],
+    "soil": "clay",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Mustard",
+    "tempRange": [
+      18,
+      25
+    ],
+    "humidityRange": [
+      55,
+      68
+    ],
+    "soil": "loamy",
+    "season": "winter"
+  },
+  {
+    "crop": "Groundnut",
+    "tempRange": [
+      19,
+      31
+    ],
+    "humidityRange": [
+      47,
+      68
+    ],
+    "soil": "clay",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Cotton",
+    "tempRange": [
+      10,
+      19
+    ],
+    "humidityRange": [
+      40,
+      70
+    ],
+    "soil": "silty",
+    "season": "winter"
+  },
+  {
+    "crop": "Mustard",
+    "tempRange": [
+      25,
+      38
+    ],
+    "humidityRange": [
+      41,
+      67
+    ],
+    "soil": "sandy",
+    "season": "winter"
+  },
+  {
+    "crop": "Coffee",
+    "tempRange": [
+      15,
+      29
+    ],
+    "humidityRange": [
+      36,
+      52
+    ],
+    "soil": "loamy",
+    "season": "winter"
+  },
+  {
+    "crop": "Pulses",
+    "tempRange": [
+      19,
+      25
+    ],
+    "humidityRange": [
+      31,
+      59
+    ],
+    "soil": "clay",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Tobacco",
+    "tempRange": [
+      20,
+      27
+    ],
+    "humidityRange": [
+      33,
+      51
+    ],
+    "soil": "loamy",
+    "season": "summer"
+  },
+  {
+    "crop": "Jute",
+    "tempRange": [
+      17,
+      25
+    ],
+    "humidityRange": [
+      41,
+      53
+    ],
+    "soil": "clay",
+    "season": "summer"
+  },
+  {
+    "crop": "Soybean",
+    "tempRange": [
+      21,
+      28
+    ],
+    "humidityRange": [
+      44,
+      69
+    ],
+    "soil": "clay",
+    "season": "summer"
+  },
+  {
+    "crop": "Pulses",
+    "tempRange": [
+      17,
+      25
+    ],
+    "humidityRange": [
+      42,
+      72
+    ],
+    "soil": "silty",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Millet",
+    "tempRange": [
+      20,
+      31
+    ],
+    "humidityRange": [
+      41,
+      55
+    ],
+    "soil": "loamy",
+    "season": "winter"
+  },
+  {
+    "crop": "Sugarcane",
+    "tempRange": [
+      25,
+      37
+    ],
+    "humidityRange": [
+      33,
+      46
+    ],
+    "soil": "loamy",
+    "season": "winter"
+  },
+  {
+    "crop": "Maize",
+    "tempRange": [
+      11,
+      17
+    ],
+    "humidityRange": [
+      30,
+      58
+    ],
+    "soil": "sandy",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Maize",
+    "tempRange": [
+      11,
+      26
+    ],
+    "humidityRange": [
+      40,
+      50
+    ],
+    "soil": "sandy",
+    "season": "monsoon"
+  },
+  {
+    "crop": "Cotton",
+    "tempRange": [
+      14,
+      27
+    ],
+    "humidityRange": [
+      48,
+      77
+    ],
+    "soil": "loamy",
+    "season": "summer"
+  },
+  {
+    "crop": "Millet",
+    "tempRange": [
+      18,
+      32
+    ],
+    "humidityRange": [
+      48,
+      59
+    ],
+    "soil": "silty",
+    "season": "summer"
+  },
+  {
+    "crop": "Cotton",
+    "tempRange": [
+      17,
+      29
+    ],
+    "humidityRange": [
+      53,
+      70
+    ],
+    "soil": "loamy",
+    "season": "summer"
+  },
+  {
+    "crop": "Sunflower",
+    "tempRange": [
+      23,
+      38
+    ],
+    "humidityRange": [
+      55,
+      70
+    ],
+    "soil": "sandy",
+    "season": "summer"
+  },
+  {
+    "crop": "Mustard",
+    "tempRange": [
+      18,
+      30
+    ],
+    "humidityRange": [
+      33,
+      54
+    ],
+    "soil": "silty",
+    "season": "summer"
+  },
+  {
+    "crop": "Rice",
+    "tempRange": [
+      10,
+      15
+    ],
+    "humidityRange": [
+      48,
+      68
+    ],
+    "soil": "loamy",
+    "season": "summer"
+  },
+  {
+    "crop": "Sugarcane",
+    "tempRange": [
+      20,
+      28
+    ],
+    "humidityRange": [
+      50,
+      65
+    ],
+    "soil": "silty",
+    "season": "monsoon"
+  }
+]
